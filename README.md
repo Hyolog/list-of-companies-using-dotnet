@@ -4,6 +4,7 @@
 ## .NET Framework
 - [엑스엘게임즈 플랫폼개발파트 소프트웨어 엔지니어](https://xlgames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=17190)
 - [플레이오토 윈도우 데스크탑 애플리케이션](https://www.playauto.co.kr/com/recruit_apply.html?num=33)
+- [이베이 재팬](https://ebaykorea.recruiter.co.kr/bbs/appsite/notice/read/77566)
 
 ## Xamarin
 
