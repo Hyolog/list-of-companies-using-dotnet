@@ -6,6 +6,7 @@
 - [플레이오토 윈도우 데스크탑 애플리케이션](https://www.playauto.co.kr/com/recruit_apply.html?num=33)
 - [이베이 재팬](https://ebaykorea.recruiter.co.kr/bbs/appsite/notice/read/77566)
 - [넥슨 플랫폼개발팀](http://company.nexon.com/careers/1/50)
+- [넷마블 백엔드 웹 서비스 개발자](https://company.netmarble.com/rem/www/notice.jsp?anno_id=1757858&annotype=all) 
 
 ## Xamarin
 
