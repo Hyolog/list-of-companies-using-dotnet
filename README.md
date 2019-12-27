@@ -7,6 +7,7 @@
 - [이베이 재팬](https://ebaykorea.recruiter.co.kr/bbs/appsite/notice/read/77566)
 - [넥슨 플랫폼개발팀](http://company.nexon.com/careers/1/50)
 - [넷마블 백엔드 웹 서비스 개발자](https://company.netmarble.com/rem/www/notice.jsp?anno_id=1757858&annotype=all) 
+- [프렌즈게임즈 .net core 서버 개발자](https://kakaogames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=19396)
 
 ## Xamarin
 
