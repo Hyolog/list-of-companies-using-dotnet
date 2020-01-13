@@ -8,6 +8,7 @@
 - [넥슨 플랫폼개발팀](http://company.nexon.com/careers/1/50)
 - [넷마블 백엔드 웹 서비스 개발자](https://company.netmarble.com/rem/www/notice.jsp?anno_id=1757858&annotype=all) 
 - [프렌즈게임즈 .net core 서버 개발자](https://kakaogames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=19396)
+- [넥슨 인증시스템](https://www.jobplanet.co.kr/companies/83498/job_postings/1151212/%EC%9E%A1%ED%94%8C%EB%9E%98%EB%8B%9B-%EB%A7%A4%EC%B9%AD-%EC%82%AC%EB%82%B4-%EC%9D%B8%EC%A6%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EB%84%A5%EC%8A%A8%EC%BD%94%EB%A6%AC%EC%95%84?_rs_act=search&_rs_con=job_postings&_rs_element=search_result)
 
 ## Xamarin
 
