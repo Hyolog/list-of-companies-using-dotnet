@@ -15,6 +15,7 @@
 - [KT](https://recruit.kt.com/apply/notifyView?seq=16388)
 - [한화](https://www.hanwhain.com/web/apply/notification/view.do?rtSeq=2882)
 - [스마일게이트 플랫폼개발](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=171534)
+- [블리자드 - 캘리포니아 ](https://careers.blizzard.com/ko-kr/openings/o26ybfwB)
 
 ## .NET Core
  - [펍지 웹서버 개발자](https://www.wanted.co.kr/wd/12800)
