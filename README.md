@@ -17,6 +17,7 @@
 - [스마일게이트 플랫폼개발](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=171534)
 - [블리자드 - 캘리포니아 ](https://careers.blizzard.com/ko-kr/openings/o26ybfwB)
 - [EA - 밴쿠버](https://ea.gr8people.com/index.gp?method=cappportal.showJob&opportunityID=156206&sid=https://www.google.com/)
+- [이스트소프트](http://job.incruit.com/entry/jobpost.asp?job=1811070000616)
 
 ## .NET Core
  - [펍지 웹서버 개발자](https://www.wanted.co.kr/wd/12800)
