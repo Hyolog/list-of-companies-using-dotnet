@@ -20,7 +20,8 @@
 - [이스트소프트](http://job.incruit.com/entry/jobpost.asp?job=1811070000616)
 
 ## .NET Core
- - [펍지 웹서버 개발자](https://www.wanted.co.kr/wd/12800)
+- [펍지 웹서버 개발자](https://www.wanted.co.kr/wd/12800)
+- [테슬라](https://www.tesla.com/ko_KR/careers/job/-56433)
 
 ## Xamarin
 - [[사람인]티몬 자마린 개발자](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=36828692) 
