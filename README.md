@@ -23,6 +23,7 @@
 ## .NET Core
 - [펍지 웹서버 개발자](https://www.wanted.co.kr/wd/12800)
 - [테슬라](https://www.tesla.com/ko_KR/careers/job/-56433)
+- [뤼이드 산타토익](https://www.wanted.co.kr/wd/32724)
 
 ## Xamarin
 - [[사람인]티몬 자마린 개발자](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=36828692) 
@@ -34,5 +35,5 @@
 - [NCSoft](http://www.jobkorea.co.kr/Recruit/GI_Read/28274018)
 - [Nexon 신규 클라이언트 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20190068)
 
-## .NET Core
- - [뤼이드 산타토익](https://www.wanted.co.kr/wd/32724)
+## ASP.NET
+ - [펄어비스 홈페이지 및 웹 ](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
