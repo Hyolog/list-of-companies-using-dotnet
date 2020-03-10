@@ -20,6 +20,7 @@
 - [이스트소프트](http://job.incruit.com/entry/jobpost.asp?job=1811070000616)
 - [롯데](https://job.lotte.co.kr/LotteRecruit/Recruit_Info/RecruitView.aspx?emptype=20000252&nowpage=1&keyword=&keyselect=&regtype=)
 - [라인플러스](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=32098808)
+- [위메이드 플랫폼/웹 개발](http://www.jobkorea.co.kr/Recruit/GI_Read/30115016?Oem_Code=C1&logpath=1&sc=63)
 
 ## .NET Core
 - [펍지 웹서버 개발자](https://www.wanted.co.kr/wd/12800)
