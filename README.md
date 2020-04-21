@@ -27,6 +27,7 @@
 - [펍지 웹서버 개발자](https://www.wanted.co.kr/wd/12800)
 - [테슬라](https://www.tesla.com/ko_KR/careers/job/-56433)
 - [뤼이드 산타토익](https://www.wanted.co.kr/wd/32724)
+- [체커](https://apply.workable.com/chequer/j/9BDAF4C372/)
 
 ## Xamarin
 - [[사람인]티몬 자마린 개발자](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=36828692) 
