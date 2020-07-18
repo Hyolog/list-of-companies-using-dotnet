@@ -40,6 +40,7 @@
 - [트렌비 가격 크롤링 및 가공](https://www.wanted.co.kr/wd/22153)
 - [NCSoft](http://www.jobkorea.co.kr/Recruit/GI_Read/28274018)
 - [Nexon 신규 클라이언트 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20190068)
+- [Movill - 카카오계열사](https://www.wanted.co.kr/wd/40037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ## ASP.NET
  - [펄어비스 홈페이지 및 웹 ](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
