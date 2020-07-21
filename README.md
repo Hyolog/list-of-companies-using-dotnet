@@ -24,6 +24,7 @@
 - [위메이드-플랫폼/웹 개발](http://www.jobkorea.co.kr/Recruit/GI_Read/30115016?Oem_Code=C1&logpath=1&sc=63)
 - [인터파크-티켓,투어 시스템](https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=24252)
 - [조이시티-게임 툴 제작](https://corp.joycity.com/recruit/JobInfo.do)
+- [포블게이트-가상화폐플랫폼 백엔드](https://www.rocketpunch.com/companies/foblgate/jobs)
 
 ## .NET Core
 - [펍지-웹서버 개발자](https://www.wanted.co.kr/wd/12800)
