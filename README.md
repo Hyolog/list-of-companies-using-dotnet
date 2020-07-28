@@ -43,7 +43,7 @@
 ## ASP.NET
  - [펄어비스_홈페이지 및 웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
  - [로봇앤드디자인](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=38208352&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
- - [플레이스5_ASP.NET 백앤드&API)(https://www.wanted.co.kr/wd/37864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+ - [플레이스5_ASP.NET 백앤드&API](https://www.wanted.co.kr/wd/37864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
  
 ## ASP.NET Core
 
@@ -54,6 +54,7 @@
 - [NCSoft](http://www.jobkorea.co.kr/Recruit/GI_Read/28274018)
 - [Nexon_신규 클라이언트 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20190068)
 - [Movill](https://www.wanted.co.kr/wd/40037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [펫닥_반려동물 통합 플랫폼](https://www.wanted.co.kr/wd/35824?referer_id=20&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 ## Winform
 
