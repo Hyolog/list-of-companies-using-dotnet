@@ -44,6 +44,7 @@
  - [펄어비스_홈페이지 및 웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
  - [로봇앤드디자인](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=38208352&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
  - [플레이스5_ASP.NET 백앤드&API](https://www.wanted.co.kr/wd/37864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+ - [이베이코리아_상품시스템](https://www.wanted.co.kr/wd/40315)
  
 ## ASP.NET Core
 
