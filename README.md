@@ -59,6 +59,7 @@
 - [펫닥_반려동물 통합 플랫폼](https://www.wanted.co.kr/wd/35824?referer_id=20&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [Xinics_윈도우 어플리케이션](https://programmers.co.kr/job_positions/1218?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [세나클소프트_의료관련 어플리케이션](https://www.rocketpunch.com/jobs/76338/Windows-ClientC-WPF-%EA%B0%9C%EB%B0%9C%EC%9E%90?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [유라이크코리아-인공지능 축산 솔루션](https://www.rocketpunch.com/jobs/77178/NET-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5)
 
 ## Winform
 
