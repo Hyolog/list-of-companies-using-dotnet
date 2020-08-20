@@ -34,6 +34,7 @@
 - [엔미디어플랫폼_빌링서비스개발](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=38456282&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [쎄트렉아이_위성 검증 SW개발](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=37644057)
 - [잼팟_게임포털 웹서비스](https://www.wanted.co.kr/wd/37232?referer_id=332797)
+- [아이템베이](https://programmers.co.kr/job_positions/2638)
 
 ## .NET Core
 - [펍지_웹서버](https://www.wanted.co.kr/wd/12800)
