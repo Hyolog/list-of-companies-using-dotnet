@@ -49,6 +49,7 @@
  - [플레이스5_ASP.NET 백앤드&API](https://www.wanted.co.kr/wd/37864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
  - [이베이코리아_상품시스템](https://www.wanted.co.kr/wd/40315)
  - [넥슨_인텔리전스랩스](https://www.wanted.co.kr/wd/5902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+ - [진학사](https://www.wanted.co.kr/wd/42979?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
  
 ## ASP.NET Core
 
