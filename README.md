@@ -36,6 +36,7 @@
 - [잼팟_게임포털 웹서비스](https://www.wanted.co.kr/wd/37232?referer_id=332797)
 - [아이템베이](https://programmers.co.kr/job_positions/2638)
 - [카카오뱅크](http://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38723747&recommend_ids=eJxd0McNQyEQRdFqvJ8c1i5k%2Bu%2FClviGh5eXMwShlSLSOt7%2ByrdCjq0FDko5vhM8%2BvKV2zuStkeVck1aPNc1y7W7OU4qacYk6V%2Fusz3McZyLcfzJ37iSWB6XNjPIFEo8zMlBXZThmzpdQL9tqMGBGkKoVnY9Y%2BXYB54YV6A%3D&view_type=list&gz=1&t_ref_content=premium_recruit_fix&t_ref=jobcategory_recruit&t_ref_area=102#seq=0)
+- [알라딘커뮤니케이션](http://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38694909&recommend_ids=eJxdkEsSBCEIQ08ze%2FmEyHoO4v1vMZbTitVVbh6QELQemYYY9PjwaxcO%2FxcocAyELKQGTQYSL6xxtZyFeOHTp87Zfuk3nr7Md%2FU3bn8jgBOXjRG1rnDbNXdIXTe13Q8ilVa3oXVhVPZwrGwPTrVoWVljr38DTKwWeXSRigkzYZa2pfplxXRfqX4jdVgh&view_type=list&gz=1&t_ref_content=general&t_ref=jobcategory_recruit#seq=0)
 
 ## .NET Core
 - [펍지_웹서버](https://www.wanted.co.kr/wd/12800)
