@@ -45,6 +45,7 @@
 - [뤼이드](https://www.wanted.co.kr/wd/32724)
 - [체커](https://apply.workable.com/chequer/j/9BDAF4C372/)
 - [프렌즈게임즈_.net core 서버](https://kakaogames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=19396)
+- [넥슨-마이크로서비스 개발](https://kr.indeed.com/viewjob?jk=cc778e2116c22ee1&tk=1ehumen26p3b8801&from=serp&vjs=3)
 
 ## ASP.NET
  - [펄어비스_홈페이지 및 웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
