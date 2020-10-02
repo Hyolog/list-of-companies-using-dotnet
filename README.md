@@ -56,6 +56,7 @@
  - [진학사](https://www.wanted.co.kr/wd/42979?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
  - [인크루트](https://job.incruit.com/jobdb_info/jobpost.asp?job=2009010000227)
  - [넥슨_메시지발송 플랫폼 개발자](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20190237)
+ - [위메이드_플랫폼 운영](https://www.wemade.com/Recruit/JobView/58?page=1&search=)
  
 ## ASP.NET Core
  - [넥슨_백엔드 테크니컬 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
