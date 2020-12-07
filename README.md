@@ -38,6 +38,7 @@
 - [카카오뱅크](http://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38723747&recommend_ids=eJxd0McNQyEQRdFqvJ8c1i5k%2Bu%2FClviGh5eXMwShlSLSOt7%2ByrdCjq0FDko5vhM8%2BvKV2zuStkeVck1aPNc1y7W7OU4qacYk6V%2Fusz3McZyLcfzJ37iSWB6XNjPIFEo8zMlBXZThmzpdQL9tqMGBGkKoVnY9Y%2BXYB54YV6A%3D&view_type=list&gz=1&t_ref_content=premium_recruit_fix&t_ref=jobcategory_recruit&t_ref_area=102#seq=0)
 - [알라딘커뮤니케이션](http://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38694909&recommend_ids=eJxdkEsSBCEIQ08ze%2FmEyHoO4v1vMZbTitVVbh6QELQemYYY9PjwaxcO%2FxcocAyELKQGTQYSL6xxtZyFeOHTp87Zfuk3nr7Md%2FU3bn8jgBOXjRG1rnDbNXdIXTe13Q8ilVa3oXVhVPZwrGwPTrVoWVljr38DTKwWeXSRigkzYZa2pfplxXRfqX4jdVgh&view_type=list&gz=1&t_ref_content=general&t_ref=jobcategory_recruit#seq=0)
 - [현대오토에버](http://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38670780&recommend_ids=eJxtj7ENQzEIRKdJb%2BDgTJ1BvP8WQcm3cRGJwo8HJ2yTGjRZnv7i2y5ceBr1npffeLxUXX7j44Pi8GrEDyeCuYjYVu0fnu2c0dtUmxjLQx5UHXEQmXCeME%2BO%2BspGaEV3lCMHrO%2Bim0QjXOSykaJ5EIBDO8pMmNcwWGc0SuY3%2BQOn8FBy&view_type=list&gz=1&t_ref_content=general&t_ref=jobcategory_recruit#seq=0)
+- [코그넥스코리아](https://www.rocketpunch.com/jobs/78968/%EC%A3%BC%EC%BD%94%EA%B7%B8%EB%84%A5%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84-Sr-Software-Engineer-%EA%B2%BD%EB%A0%A5%EC%A7%81-%EC%B1%84%EC%9A%A9)
 
 ## .NET Core
 - [펍지_웹서버](https://www.wanted.co.kr/wd/12800)
