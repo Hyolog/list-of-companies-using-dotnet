@@ -41,6 +41,7 @@
 - [코그넥스코리아](https://www.rocketpunch.com/jobs/78968/%EC%A3%BC%EC%BD%94%EA%B7%B8%EB%84%A5%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84-Sr-Software-Engineer-%EA%B2%BD%EB%A0%A5%EC%A7%81-%EC%B1%84%EC%9A%A9)
 - [sk c&c_sk실트론](https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet)
 - [111%_서버](https://111percent.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=48572)
+- [밀리만코리아](https://www.wanted.co.kr/wd/39688)
 
 ## .NET Core
 - [펍지_웹서버](https://www.wanted.co.kr/wd/12800)
