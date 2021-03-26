@@ -82,6 +82,7 @@
 - [카카오엔터프라이즈_Windows 개발자](https://www.jobplanet.co.kr/companies/353508/job_postings/1164495/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC-windows-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88)
 - [메쉬코리아_부릉](https://www.wanted.co.kr/wd/43043?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [코보시스](https://www.wanted.co.kr/wd/46155?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [포디리플레이코리아](https://www.wanted.co.kr/company/1485)
 
 ## Winform
 
