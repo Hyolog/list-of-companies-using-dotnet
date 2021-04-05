@@ -67,6 +67,7 @@
 ## ASP.NET Core
  - [넥슨_백엔드 테크니컬 프로그래머](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
  - [슈가힐-네모](https://www.rocketpunch.com/jobs/86364/%EC%8A%88%EA%B0%80%ED%9E%90%EB%84%A4%EB%AA%A8-%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%9E%90-Server-Developer)
+ - [스마일게이트_그룹웨어](https://www.jobkorea.co.kr/Recruit/GI_Read/34328154?Oem_Code=C1&PageGbn=ST)
 
 ## WPF
 - [크래프톤_산업기능요원_상시모집](https://www.jobplanet.co.kr/companies/74946/job_postings/363852/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EB%B8%94%EB%A3%A8%ED%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4)
