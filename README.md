@@ -4,12 +4,13 @@
 ```
 
 ## Description
-- 기업정보를 채용링크와 함께 기록합니다. 
+- 기업 정보를 채용 링크와 함께 기록합니다. 
 - 기업 정보 기록&공유가 목적이므로 채용이 끝나도 링크를 삭제하지 않습니다.
+- [.NET 이란?](https://docs.microsoft.com/ko-kr/dotnet/framework/get-started/overview)
 
 ## Add Convention
-- [회사명_(모집분야)_(특징)]
-- 공고에 구체적인 프레임워크가 명시되어 있으면 해당섹션에, 그렇지 않다면 최상단 .NET Framework 섹션에 추가합니다.
+- 회사명_모집분야
+- 공고에 구체적인 스택이 명시되어 있으면 해당 섹션에, 그렇지 않다면 최상단 [.NET Framework](#net-framework) 섹션에 추가합니다.
 
 ## .NET Framework
 - [엑스엘게임즈_플랫폼 개발팀](https://xlgames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=17190)
