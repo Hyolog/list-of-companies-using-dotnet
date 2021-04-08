@@ -54,7 +54,7 @@
 
 ## ASP.NET
  - [펄어비스_웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
-9 - [로봇앤드디자인_바이오 관련 SW](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=38208352&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+ - [로봇앤드디자인_바이오 관련 SW](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=38208352&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
  - [플레이스5_백엔드&API](https://www.wanted.co.kr/wd/37864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
  - [이베이코리아_웹 풀스택](https://www.wanted.co.kr/wd/40315)
  - [넥슨_웹](https://www.wanted.co.kr/wd/5902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
