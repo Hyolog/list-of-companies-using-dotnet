@@ -53,6 +53,7 @@
 - [체커](https://apply.workable.com/chequer/j/9BDAF4C372/)
 - [프렌즈게임즈_서버](https://kakaogames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=19396)
 - [넥슨_마이크로서비스](https://kr.indeed.com/viewjob?jk=cc778e2116c22ee1&tk=1ehumen26p3b8801&from=serp&vjs=3)
+- [컴투스_낚시의신 서버](https://com2us.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=43879)
 
 ## ASP.NET
  - [펄어비스_웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
