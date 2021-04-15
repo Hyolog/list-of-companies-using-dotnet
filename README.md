@@ -46,6 +46,7 @@
 - [SKC&C_관계사 그룹웨어 시스템](https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet)
 
 ## .NET Core
+- [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
 - [펍지_웹서버](https://www.wanted.co.kr/wd/12800)
 - [테슬라](https://www.tesla.com/ko_KR/careers/job/-56433)
 - [뤼이드_백엔드](https://www.wanted.co.kr/wd/32724)
