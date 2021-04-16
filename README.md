@@ -45,7 +45,7 @@
 - [밀리만코리아_계리 시스템](https://www.wanted.co.kr/wd/39688)
 - [SKC&C_관계사 그룹웨어 시스템](https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet)
 - [루나소프트](https://www.wanted.co.kr/wd/12020)
-- [카카오게임즈](https://www.jobkorea.co.kr/Search/?stext=.net&cotype=1%2C4&jobtype=1&period=5&tabType=recruit&Page_No=5)
+- [카카오게임즈](https://www.jobkorea.co.kr/Recruit/GI_Read/34264497?Oem_Code=C1&logpath=1)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
@@ -74,7 +74,8 @@
  - [투비콘](https://www.wanted.co.kr/wd/54209)
  - [잡코리아](https://www.jobkorea.co.kr/Search/?stext=.net&jobtype=1&period=5)
  - [YES24](https://www.jobkorea.co.kr/Search/?stext=.net&jobtype=1&period=5)
- - [네오위즈](https://www.jobkorea.co.kr/Recruit/GI_Read/34253703?Oem_Code=C1&logpath=1)
+ - [네오위즈](https://www.jobkorea.co.kr/Recruit/GI_Read/34253703?Oem_Code=C1&logpath=1) 
+ - [KG이니시스](https://www.jobkorea.co.kr/Recruit/GI_Read/34229459?Oem_Code=C1&logpath=1)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
