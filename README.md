@@ -71,6 +71,8 @@
  - [펄어비스-플랫폼](https://pearlabyss-recruit.saramin.co.kr/apply_site/recruit/view)
  - [퀄리소프트](https://www.wanted.co.kr/wd/57660)
  - [투비콘](https://www.wanted.co.kr/wd/54209)
+ - [잡코리아](https://www.jobkorea.co.kr/Search/?stext=.net&jobtype=1&period=5)
+ - [YES24](https://www.jobkorea.co.kr/Search/?stext=.net&jobtype=1&period=5)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
