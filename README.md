@@ -46,6 +46,7 @@
 - [SKC&C_관계사 그룹웨어 시스템](https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet)
 - [루나소프트](https://www.wanted.co.kr/wd/12020)
 - [카카오게임즈](https://www.jobkorea.co.kr/Recruit/GI_Read/34264497?Oem_Code=C1&logpath=1)
+- [펜타큐브](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=39853421)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
