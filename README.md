@@ -77,6 +77,7 @@
  - [YES24](https://www.jobkorea.co.kr/Search/?stext=.net&jobtype=1&period=5)
  - [네오위즈](https://www.jobkorea.co.kr/Recruit/GI_Read/34253703?Oem_Code=C1&logpath=1) 
  - [KG이니시스](https://www.jobkorea.co.kr/Recruit/GI_Read/34229459?Oem_Code=C1&logpath=1)
+ - [더즌](https://www.wanted.co.kr/wd/47981)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
@@ -98,6 +99,8 @@
 - [메쉬코리아_부릉 포스 윈도우 앱](https://www.wanted.co.kr/wd/43043?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [코보시스_키오스크 윈도우 앱](https://www.wanted.co.kr/wd/46155?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [포디리플레이코리아](https://www.wanted.co.kr/company/1485)
+- [오비이랩](https://www.wanted.co.kr/wd/57567)
+- [클라모스](https://www.wanted.co.kr/wd/56850)
 
 ## Winform
 
