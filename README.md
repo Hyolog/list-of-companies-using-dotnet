@@ -47,6 +47,7 @@
 - [루나소프트_백엔드API](https://www.wanted.co.kr/wd/12020)
 - [카카오게임즈_퍼블리싱플랫폼](https://www.jobkorea.co.kr/Recruit/GI_Read/34264497?Oem_Code=C1&logpath=1)
 - [펜타큐브_CAD 응용프로그램](https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
+- [워크브레인](https://www.notion.so/NET-9c1c2d29642344a7b39930f81b42238c)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
@@ -83,7 +84,7 @@
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
  - [슈가힐-백엔드](https://www.rocketpunch.com/jobs/86364/%EC%8A%88%EA%B0%80%ED%9E%90%EB%84%A4%EB%AA%A8-%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%9E%90-Server-Developer)
  - [스마일게이트_그룹웨어](https://www.jobkorea.co.kr/Recruit/GI_Read/34328154?Oem_Code=C1&PageGbn=ST)
-o - [유니크굿컴퍼니_리얼월드 게임 서버](https://www.wanted.co.kr/wd/39992)
+ - [유니크굿컴퍼니_리얼월드 게임 서버](https://www.wanted.co.kr/wd/39992)
 
 ## WPF
 - [크래프톤_TERA 운영 툴](https://www.jobplanet.co.kr/companies/74946/job_postings/363852/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EB%B8%94%EB%A3%A8%ED%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4)
