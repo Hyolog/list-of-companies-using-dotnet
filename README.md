@@ -44,9 +44,9 @@
 - [111Percent_서버](https://111percent.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=48572)
 - [밀리만코리아_계리 시스템](https://www.wanted.co.kr/wd/39688)
 - [SKC&C_관계사 그룹웨어 시스템](https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet)
-- [루나소프트](https://www.wanted.co.kr/wd/12020)
-- [카카오게임즈](https://www.jobkorea.co.kr/Recruit/GI_Read/34264497?Oem_Code=C1&logpath=1)
-- [펜타큐브](https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
+- [루나소프트_백엔드API](https://www.wanted.co.kr/wd/12020)
+- [카카오게임즈_퍼블리싱플랫폼](https://www.jobkorea.co.kr/Recruit/GI_Read/34264497?Oem_Code=C1&logpath=1)
+- [펜타큐브_CAD 응용프로그램](https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
@@ -71,19 +71,19 @@
  - [도너스_SaaS 백엔드](https://www.rocketpunch.com/jobs/35478/SaaS-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90)
  - [파이랩_백엔드](https://www.rocketpunch.com/jobs/59052/Backend-%EA%B0%9C%EB%B0%9C%EC%9E%90)
  - [펄어비스-플랫폼](https://pearlabyss-recruit.saramin.co.kr/apply_site/recruit/view)
- - [퀄리소프트](https://www.wanted.co.kr/wd/57660)
- - [투비콘](https://www.wanted.co.kr/wd/54209)
- - [잡코리아](https://www.jobkorea.co.kr/Search/?stext=.net&jobtype=1&period=5)
- - [YES24](https://www.jobkorea.co.kr/Search/?stext=.net&jobtype=1&period=5)
- - [네오위즈](https://www.jobkorea.co.kr/Recruit/GI_Read/34253703?Oem_Code=C1&logpath=1) 
- - [KG이니시스](https://www.jobkorea.co.kr/Recruit/GI_Read/34229459?Oem_Code=C1&logpath=1)
- - [더즌](https://www.wanted.co.kr/wd/47981)
+ - [퀄리소프트_CRM 솔루션](https://www.wanted.co.kr/wd/57660)
+ - [투비콘_백엔드](https://www.wanted.co.kr/wd/54209)
+ - [잡코리아_사내 백오피스](https://www.jobkorea.co.kr/Recruit/GI_Read/34333542?Oem_Code=C1)
+ - [YES24_도서몰](https://www.jobkorea.co.kr/Recruit/GI_Read/34255441?Oem_Code=C1)
+ - [네오위즈_모바일게임 API서버](https://www.jobkorea.co.kr/Recruit/GI_Read/34253703?Oem_Code=C1&logpath=1) 
+ - [KG이니시스_키오스크 프로그램](https://www.jobkorea.co.kr/Recruit/GI_Read/34229459?Oem_Code=C1&logpath=1)
+ - [더즌_핀테크 관련 개발 및 운영](https://www.wanted.co.kr/wd/47981)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
  - [슈가힐-백엔드](https://www.rocketpunch.com/jobs/86364/%EC%8A%88%EA%B0%80%ED%9E%90%EB%84%A4%EB%AA%A8-%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%9E%90-Server-Developer)
  - [스마일게이트_그룹웨어](https://www.jobkorea.co.kr/Recruit/GI_Read/34328154?Oem_Code=C1&PageGbn=ST)
- - [유니크굿컴퍼니](https://www.wanted.co.kr/wd/39992)
+o - [유니크굿컴퍼니_리얼월드 게임 서버](https://www.wanted.co.kr/wd/39992)
 
 ## WPF
 - [크래프톤_TERA 운영 툴](https://www.jobplanet.co.kr/companies/74946/job_postings/363852/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EB%B8%94%EB%A3%A8%ED%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4)
@@ -99,7 +99,7 @@
 - [메쉬코리아_부릉 포스 윈도우 앱](https://www.wanted.co.kr/wd/43043?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [코보시스_키오스크 윈도우 앱](https://www.wanted.co.kr/wd/46155?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [포디리플레이코리아](https://www.wanted.co.kr/company/1485)
-- [오비이랩](https://www.wanted.co.kr/wd/57567)
+- [오비이랩_뇌 영상 장비 소프트웨어](https://www.wanted.co.kr/wd/57567)
 - [클라모스](https://www.wanted.co.kr/wd/56850)
 
 ## Winform
