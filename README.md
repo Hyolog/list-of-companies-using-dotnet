@@ -102,6 +102,7 @@
 - [포디리플레이코리아](https://www.wanted.co.kr/company/1485)
 - [오비이랩_뇌 영상 장비 소프트웨어](https://www.wanted.co.kr/wd/57567)
 - [클라모스](https://www.wanted.co.kr/wd/56850)
+- [엑토즈소프트_인증/빌링 서버](https://www.jobkorea.co.kr/Recruit/GI_Read/34506547?Oem_Code=C1)
 
 ## Winform
 
