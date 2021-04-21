@@ -78,6 +78,7 @@
  - [네오위즈_모바일게임 API서버](https://www.jobkorea.co.kr/Recruit/GI_Read/34253703?Oem_Code=C1&logpath=1) 
  - [KG이니시스_키오스크 프로그램](https://www.jobkorea.co.kr/Recruit/GI_Read/34229459?Oem_Code=C1&logpath=1)
  - [더즌_핀테크 관련 개발 및 운영](https://www.wanted.co.kr/wd/47981)
+ - [인피니트헬스케어_병원 의료 시스템](https://www.infinitt.com/about-us/career.php?ctr=a_kor#job-description)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
