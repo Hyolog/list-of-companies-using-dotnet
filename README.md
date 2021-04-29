@@ -81,6 +81,7 @@
  - [더즌_핀테크 관련 개발 및 운영](https://www.wanted.co.kr/wd/47981)
  - [인피니트헬스케어_의료 정보 시스템](https://www.infinitt.com/about-us/career.php?ctr=a_kor#job-description)
  - [현대IT&3_현대백화점 쇼핑몰](https://www.jobkorea.co.kr/Recruit/GI_Read/34461285?Oem_Code=C1&logpath=1)
+ - [액토즈소프트_파이널판타지 웹](https://www.jobkorea.co.kr/Search/?stext=.net&cotype=1%2C4&jobtype=1)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
@@ -105,7 +106,7 @@
 - [포디리플레이코리아](https://www.wanted.co.kr/company/1485)
 - [오비이랩_뇌 영상 장비 소프트웨어](https://www.wanted.co.kr/wd/57567)
 - [클라모스](https://www.wanted.co.kr/wd/56850)
-- [엑토즈소프트_인증/빌링 서버](https://www.jobkorea.co.kr/Recruit/GI_Read/34506547?Oem_Code=C1)
+- [액토즈소프트_인증/빌링 서버](https://www.jobkorea.co.kr/Recruit/GI_Read/34506547?Oem_Code=C1)
 
 ## Winform
 
