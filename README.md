@@ -49,6 +49,7 @@
 - [펜타큐브_CAD 응용프로그램](https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 - [워크브레인](https://www.notion.so/NET-9c1c2d29642344a7b39930f81b42238c)
 - [롯데정보통신_MIS/ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/34531515?Oem_Code=C1&logpath=1)
+- [
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
@@ -82,6 +83,7 @@
  - [인피니트헬스케어_의료 정보 시스템](https://www.infinitt.com/about-us/career.php?ctr=a_kor#job-description)
  - [현대IT&3_현대백화점 쇼핑몰](https://www.jobkorea.co.kr/Recruit/GI_Read/34461285?Oem_Code=C1&logpath=1)
  - [액토즈소프트_파이널판타지 웹](https://www.jobkorea.co.kr/Search/?stext=.net&cotype=1%2C4&jobtype=1)
+ - [넥슨GT_서든어택 어드민툴](https://www.jobkorea.co.kr/Recruit/GI_Read/34589781?Oem_Code=C1&logpath=1)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
@@ -107,6 +109,7 @@
 - [오비이랩_뇌 영상 장비 소프트웨어](https://www.wanted.co.kr/wd/57567)
 - [클라모스](https://www.wanted.co.kr/wd/56850)
 - [액토즈소프트_인증/빌링 서버](https://www.jobkorea.co.kr/Recruit/GI_Read/34506547?Oem_Code=C1)
+- [네오젠소프트_의료장비 시스템 개발](https://www.wanted.co.kr/wd/61262)
 
 ## Winform
 
