@@ -84,7 +84,8 @@
  - [현대IT&3_현대백화점 쇼핑몰](https://www.jobkorea.co.kr/Recruit/GI_Read/34461285?Oem_Code=C1&logpath=1)
  - [액토즈소프트_파이널판타지 웹](https://www.jobkorea.co.kr/Search/?stext=.net&cotype=1%2C4&jobtype=1)
  - [넥슨GT_서든어택 어드민툴](https://www.jobkorea.co.kr/Recruit/GI_Read/34589781?Oem_Code=C1&logpath=1)
- - [오엠티아이코리아](https://www.wanted.co.kr/wd/61820)
+ - [오엠티아이코리아_법조계 업무 지원 소프트웨어](https://www.wanted.co.kr/wd/61820)
+ - [미디어윌네트웍스_알바천국 웹](https://www.wanted.co.kr/wd/61480)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
