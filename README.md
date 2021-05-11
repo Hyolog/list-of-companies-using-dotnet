@@ -49,6 +49,7 @@
 - [펜타큐브_CAD 응용프로그램](https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 - [워크브레인](https://www.notion.so/NET-9c1c2d29642344a7b39930f81b42238c)
 - [롯데정보통신_MIS/ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/34531515?Oem_Code=C1&logpath=1)
+- [동원그룹_ERP](https://recruit.dongwon.com/?page_id=7935&id=945289&announceId=945289&sDate=202105112100&eDate=202105311700)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
