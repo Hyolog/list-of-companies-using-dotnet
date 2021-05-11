@@ -86,6 +86,7 @@
  - [넥슨GT_서든어택 어드민툴](https://www.jobkorea.co.kr/Recruit/GI_Read/34589781?Oem_Code=C1&logpath=1)
  - [오엠티아이코리아_법조계 업무 지원 소프트웨어](https://www.wanted.co.kr/wd/61820)
  - [미디어윌네트웍스_알바천국 웹](https://www.wanted.co.kr/wd/61480)
+ - [세이지리서치_Tech lead](https://www.rocketpunch.com/jobs/92854/Application-Engineer-Tech-Lead)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
