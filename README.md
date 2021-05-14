@@ -89,6 +89,7 @@
  - [미디어윌네트웍스_알바천국 웹](https://www.wanted.co.kr/wd/61480)
  - [세이지리서치_Tech lead](https://www.rocketpunch.com/jobs/92854/Application-Engineer-Tech-Lead)
  - [비알스톰_웹](https://www.rocketpunch.com/jobs/97190)
+ - [네오정보시스템_Windows 응용프로그램](https://www.wanted.co.kr/wd/59842)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
