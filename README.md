@@ -50,6 +50,7 @@
 - [워크브레인](https://www.notion.so/NET-9c1c2d29642344a7b39930f81b42238c)
 - [롯데정보통신_MIS/ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/34531515?Oem_Code=C1&logpath=1)
 - [동원그룹_ERP](https://recruit.dongwon.com/?page_id=7935&id=945289&announceId=945289&sDate=202105112100&eDate=202105311700)
+- [넷마블_업무시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/34674564?Oem_Code=C1&logpath=1)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
