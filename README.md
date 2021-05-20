@@ -62,6 +62,7 @@
 - [넥슨_마이크로서비스](https://kr.indeed.com/viewjob?jk=cc778e2116c22ee1&tk=1ehumen26p3b8801&from=serp&vjs=3)
 - [컴투스_낚시의신 서버](https://com2us.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=43879)
 - [데브시스터즈_브릭시티 게임 서버](https://careers.devsisters.com/position/detail/?jobPosition=129)
+- [투스라이프_백엔드](https://www.jobkorea.co.kr/Recruit/GI_Read/34799251?Oem_Code=C1&logpath=1)
 
 ## ASP.NET
  - [펄어비스_웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
@@ -123,6 +124,7 @@
 - [액토즈소프트_인증/빌링 서버](https://www.jobkorea.co.kr/Recruit/GI_Read/34506547?Oem_Code=C1)
 - [네오젠소프트_의료장비 시스템 개발](https://www.wanted.co.kr/wd/61262)
 - [덴트웹_치과 클라이언트](https://www.rocketpunch.com/jobs/95273/C-WPF-%EA%B2%BD%EB%A0%A5%EC%A7%81-%EC%B1%84%EC%9A%A9)
+- [코오롱그룹_생산 시스템 개발](https://www.jobkorea.co.kr/Recruit/GI_Read/34746168?Oem_Code=C1&logpath=1)
 
 ## Winform
 
