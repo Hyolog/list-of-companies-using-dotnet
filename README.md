@@ -125,6 +125,8 @@
 - [네오젠소프트_의료장비 시스템 개발](https://www.wanted.co.kr/wd/61262)
 - [덴트웹_치과 클라이언트](https://www.rocketpunch.com/jobs/95273/C-WPF-%EA%B2%BD%EB%A0%A5%EC%A7%81-%EC%B1%84%EC%9A%A9)
 - [코오롱그룹_생산 시스템 개발](https://www.jobkorea.co.kr/Recruit/GI_Read/34746168?Oem_Code=C1&logpath=1)
+- [현대오토에버_차세대 메신저 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/34221018?Oem_Code=C1&logpath=1)
+- [한미반도체_반도체 시스템 UI](https://www.jobkorea.co.kr/Recruit/GI_Read/34706477?Oem_Code=C1&logpath=1)
 
 ## Winform
 
