@@ -63,6 +63,8 @@
 - [컴투스_낚시의신 서버](https://com2us.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=43879)
 - [데브시스터즈_브릭시티 게임 서버](https://careers.devsisters.com/position/detail/?jobPosition=129)
 - [투스라이프_백엔드](https://www.jobkorea.co.kr/Recruit/GI_Read/34799251?Oem_Code=C1&logpath=1)
+- [KTsat_위성관제 SW](https://www.jobkorea.co.kr/Recruit/GI_Read/34816989?Oem_Code=C1&PageGbn=ST)
+- 
 
 ## ASP.NET
  - [펄어비스_웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
