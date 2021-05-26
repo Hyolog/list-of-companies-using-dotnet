@@ -65,7 +65,7 @@
 - [데브시스터즈_브릭시티 게임 서버](https://careers.devsisters.com/position/detail/?jobPosition=129)
 - [투스라이프_백엔드](https://www.jobkorea.co.kr/Recruit/GI_Read/34799251?Oem_Code=C1&logpath=1)
 - [KTsat_위성관제 SW](https://www.jobkorea.co.kr/Recruit/GI_Read/34816989?Oem_Code=C1&PageGbn=ST)
-- 
+- [블루비커_백엔드](https://www.linkedin.com/jobs/view/2553823801/?refId=PYJs5Kfs8DejVyMifGUJJA%3D%3D&trackingId=Aa25%2F5t1aGNSs5cqm2xFHA%3D%3D)
 
 ## ASP.NET
  - [펄어비스_웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
