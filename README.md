@@ -100,6 +100,7 @@
  - [쿼터백그룹_자산관리서비스 웹 개발](https://www.rocketpunch.com/jobs/92325)
  - [교원그룹_웹 개발](https://www.jobkorea.co.kr/Recruit/GI_Read/34754353?Oem_Code=C1&logpath=1)
  - [로지올_배달시스템 WEB API](https://www.wanted.co.kr/wd/62986)
+ - [굿어스_가상화 웹앱](https://www.jobkorea.co.kr/Recruit/GI_Read/34851005?Oem_Code=C1&logpath=1)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
