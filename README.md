@@ -52,7 +52,8 @@
 - [동원그룹_ERP](https://recruit.dongwon.com/?page_id=7935&id=945289&announceId=945289&sDate=202105112100&eDate=202105311700)
 - [넷마블_업무시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/34674564?Oem_Code=C1&logpath=1)
 - [브이엔티지_ERP, MES](https://www.jobkorea.co.kr/Recruit/GI_Read/34835618?Oem_Code=C1&logpath=1)
-- [라스트오더_윈도우 ](https://www.rocketpunch.com/jobs/98488/%EB%9D%BC%EC%8A%A4%ED%8A%B8%EC%98%A4%EB%8D%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90)
+- [라스트오더_윈도우 앱](https://www.rocketpunch.com/jobs/98488/%EB%9D%BC%EC%8A%A4%ED%8A%B8%EC%98%A4%EB%8D%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90)
+- [누리플렉스_ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/34832333?Oem_Code=C1&logpath=1)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
