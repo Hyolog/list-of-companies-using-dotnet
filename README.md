@@ -52,6 +52,7 @@
 - [동원그룹_ERP](https://recruit.dongwon.com/?page_id=7935&id=945289&announceId=945289&sDate=202105112100&eDate=202105311700)
 - [넷마블_업무시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/34674564?Oem_Code=C1&logpath=1)
 - [브이엔티지_ERP, MES](https://www.jobkorea.co.kr/Recruit/GI_Read/34835618?Oem_Code=C1&logpath=1)
+- [라스트오더_윈도우 ](https://www.rocketpunch.com/jobs/98488/%EB%9D%BC%EC%8A%A4%ED%8A%B8%EC%98%A4%EB%8D%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
@@ -131,6 +132,7 @@
 - [코오롱그룹_생산 시스템 개발](https://www.jobkorea.co.kr/Recruit/GI_Read/34746168?Oem_Code=C1&logpath=1)
 - [현대오토에버_차세대 메신저 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/34221018?Oem_Code=C1&logpath=1)
 - [한미반도체_반도체 시스템 UI](https://www.jobkorea.co.kr/Recruit/GI_Read/34706477?Oem_Code=C1&logpath=1)
+- [콩테크_윈도우 앱](https://www.wanted.co.kr/wd/63237)
 
 ## Winform
 
