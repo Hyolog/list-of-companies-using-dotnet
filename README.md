@@ -137,6 +137,7 @@
 - [현대오토에버_차세대 메신저 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/34221018?Oem_Code=C1&logpath=1)
 - [한미반도체_반도체 시스템 UI](https://www.jobkorea.co.kr/Recruit/GI_Read/34706477?Oem_Code=C1&logpath=1)
 - [콩테크_윈도우 앱](https://www.wanted.co.kr/wd/63237)
+- [비브로스_키오스크](https://www.wanted.co.kr/wd/64780)
 
 ## Winform
 
