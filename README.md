@@ -56,7 +56,7 @@
 - [누리플렉스_ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/34832333?Oem_Code=C1&logpath=1)
 - [아레나캐스트_거래시스템 백엔드](https://www.rocketpunch.com/jobs/97812)
 - [그라비티_웹사이트](https://www.jobkorea.co.kr/Recruit/GI_Read/34977618?Oem_Code=C1&logpath=1)
-
+- [하나금융티아이_내부 업무 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/34930262?Oem_Code=C1&logpath=1)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
