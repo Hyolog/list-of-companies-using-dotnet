@@ -58,6 +58,7 @@
 - [그라비티_웹사이트](https://www.jobkorea.co.kr/Recruit/GI_Read/34977618?Oem_Code=C1&logpath=1)
 - [하나금융티아이_내부 업무 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/34930262?Oem_Code=C1&logpath=1)
 - [이지스엔터프라이즈_ERP](https://www.wanted.co.kr/wd/46655)
+- [한국에스지에스_](https://www.jobkorea.co.kr/Recruit/GI_Read/35014416?Oem_Code=C1&logpath=1)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
@@ -114,7 +115,7 @@
  - [스마일게이트_그룹웨어](https://www.jobkorea.co.kr/Recruit/GI_Read/34328154?Oem_Code=C1&PageGbn=ST)
  - [유니크굿컴퍼니_리얼월드 게임 서버](https://www.wanted.co.kr/wd/39992)
  - [도너스_SaaS 백엔드](https://www.wanted.co.kr/wd/6322)
- - [KT DS_협업플랫폼 개발](https://www.jobkorea.co.kr/Recruit/GI_Read/34654150?Oem_Code=C1)\
+ - [KT DS_협업플랫폼 개발](https://www.jobkorea.co.kr/Recruit/GI_Read/34654150?Oem_Code=C1)
  - [랭코드_챗봇서비스 백엔드](https://www.rocketpunch.com/jobs/96778/C-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9-ASPNET-Core-Blazor)
  - [KEY MEDIA_웹 개발](https://www.jobkorea.co.kr/Recruit/GI_Read/34778414?Oem_Code=C1&logpath=1)
 
