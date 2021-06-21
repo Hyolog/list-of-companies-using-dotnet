@@ -109,6 +109,7 @@
  - [웅진캠퍼스_영여교육 웹](https://www.jobkorea.co.kr/Recruit/GI_Read/34942879?Oem_Code=C1&logpath=1)
  - [메가엠디_교육플랫폼](https://www.jobkorea.co.kr/Recruit/GI_Read/34941308?Oem_Code=C1&logpath=1)
  - [증권통_실시간 시스템 개발 및 운영](https://www.rocketpunch.com/jobs/100239/Server-%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EB%A0%A515%EB%85%84-%EC%B1%84%EC%9A%A9)
+ - [휴넷_학습관리시스템](https://www.wanted.co.kr/wd/8008)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
