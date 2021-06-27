@@ -149,6 +149,7 @@
 - [한미반도체_반도체 시스템 UI](https://www.jobkorea.co.kr/Recruit/GI_Read/34706477?Oem_Code=C1&logpath=1)
 - [콩테크_윈도우 앱](https://www.wanted.co.kr/wd/63237)
 - [비브로스_키오스크](https://www.wanted.co.kr/wd/64780)
+- [마인즈랩_디지털데스크](https://www.jobkorea.co.kr/Recruit/GI_Read/35140593?Oem_Code=C1&sc=7)
 
 ## Winform
 
