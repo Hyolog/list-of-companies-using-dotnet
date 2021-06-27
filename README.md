@@ -6,6 +6,7 @@
 ## Description
 - 기업 정보를 채용 링크와 함께 기록합니다. 
 - 기업 정보 기록&공유가 목적이므로 채용이 끝나도 링크를 삭제하지 않습니다.
+- 자사 서비스가 존재하는 회사만 추가하고 있습니다.
 - [.NET 이란?](https://docs.microsoft.com/ko-kr/dotnet/framework/get-started/overview)
 
 ## Add Convention
