@@ -110,7 +110,8 @@
  - [메가엠디_교육플랫폼](https://www.jobkorea.co.kr/Recruit/GI_Read/34941308?Oem_Code=C1&logpath=1)
  - [증권통_실시간 시스템 개발 및 운영](https://www.rocketpunch.com/jobs/100239/Server-%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EB%A0%A515%EB%85%84-%EC%B1%84%EC%9A%A9)
  - [휴넷_학습관리시스템](https://www.wanted.co.kr/wd/8008)
- - [아나토마지코리아웹](https://www.jobkorea.co.kr/Recruit/GI_Read/35130270?Oem_Code=C1&logpath=1)
+ - [아나토마지코리아_웹](https://www.jobkorea.co.kr/Recruit/GI_Read/35130270?Oem_Code=C1&logpath=1)
+ - [달리자_김집사 서비스 백엔드](https://www.wanted.co.kr/wd/62990)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
