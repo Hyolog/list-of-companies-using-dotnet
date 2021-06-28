@@ -115,6 +115,7 @@
  - [아나토마지코리아_웹](https://www.jobkorea.co.kr/Recruit/GI_Read/35130270?Oem_Code=C1&logpath=1)
  - [달리자_김집사 서비스 백엔드](https://www.wanted.co.kr/wd/62990)
  - [모빈스_사내 전산 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/35051753?Oem_Code=C1&sc=7)
+ - [NSSOFT_퍼블리싱플랫폼 백엔드](https://www.jobkorea.co.kr/Recruit/GI_Read/35118771?Oem_Code=C1&logpath=1)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
