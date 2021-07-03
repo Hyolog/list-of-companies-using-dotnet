@@ -47,7 +47,6 @@
 - [SKC&C_관계사 그룹웨어 시스템](https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet)
 - [루나소프트_백엔드API](https://www.wanted.co.kr/wd/12020)
 - [카카오게임즈_퍼블리싱플랫폼](https://www.jobkorea.co.kr/Recruit/GI_Read/34264497?Oem_Code=C1&logpath=1)
-- [펜타큐브_CAD 응용프로그램](https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 - [워크브레인](https://www.notion.so/NET-9c1c2d29642344a7b39930f81b42238c)
 - [롯데정보통신_MIS/ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/34531515?Oem_Code=C1&logpath=1)
 - [동원그룹_ERP](https://recruit.dongwon.com/?page_id=7935&id=945289&announceId=945289&sDate=202105112100&eDate=202105311700)
@@ -154,9 +153,11 @@
 - [비브로스_키오스크](https://www.wanted.co.kr/wd/64780)
 - [마인즈랩_디지털데스크](https://www.jobkorea.co.kr/Recruit/GI_Read/35140593?Oem_Code=C1&sc=7)
 - [ADT캡스_출입근태시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/35204925?Oem_Code=C1&logpath=1)
+- [펜타큐브_CAD 응용프로그램](https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 
 ## Winform
 
 ## Xamarin
 - [티몬_스토어 앱](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=36828692) 
 - [드림포라_모바일 앱](https://www.rocketpunch.com/jobs/93092/%ED%8C%80%EC%9E%A5%EA%B8%89-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9E%90)
+- [망고슬래브](https://www.wanted.co.kr/wd/61389)
