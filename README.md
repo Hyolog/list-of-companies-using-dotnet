@@ -156,6 +156,7 @@
 - [펜타큐브_CAD 응용프로그램](https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 - [파수_ECM 클라이언트](https://www.wanted.co.kr/wd/63339)
 - [딜리버리히어로코리아_주문전달서비스](https://www.jobkorea.co.kr/Recruit/GI_Read/35277906?Oem_Code=C1&logpath=1)
+- [스마일게이트_신규프로젝트 개발툴](https://www.jobkorea.co.kr/Recruit/GI_Read/35296872?Oem_Code=C1&logpath=1)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
