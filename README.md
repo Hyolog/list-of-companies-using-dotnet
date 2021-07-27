@@ -163,6 +163,7 @@
 - [스마일게이트_신규프로젝트 개발툴](https://www.jobkorea.co.kr/Recruit/GI_Read/35296872?Oem_Code=C1&logpath=1)
 - [만나플래닛_POS 프로그램](https://www.wanted.co.kr/wd/70593)
 - [케이디아이덴_키오스크 프로그램](https://www.wanted.co.kr/wd/66700)
+- [웨이센_의료영상분석솔루션](https://www.wanted.co.kr/wd/72303)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
