@@ -168,6 +168,7 @@
 - [케이디아이덴_키오스크 프로그램](https://www.wanted.co.kr/wd/66700)
 - [웨이센_의료영상분석솔루션](https://www.wanted.co.kr/wd/72303)
 - [가비아씨엔에스_전자상거래 통합 솔루션](https://programmers.co.kr/job_positions/2669)
+- [홈플러스_스토어 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/35519496?Oem_Code=C1&logpath=1)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
