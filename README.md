@@ -61,6 +61,7 @@
 - [신세계아이앤씨_그룹사 웹 시스템](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5793)
 - [에이피티씨_반도체 장비 제어](https://programmers.co.kr/job_positions/3910)
 - [틸론_VDI 솔루션](https://programmers.co.kr/job_positions/2890)
+- [JaneStreet_윈도우 풀스택](https://www.janestreet.com/join-jane-street/position/5127816002/)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
@@ -171,6 +172,7 @@
 - [가비아씨엔에스_전자상거래 통합 솔루션](https://programmers.co.kr/job_positions/2669)
 - [홈플러스_스토어 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/35519496?Oem_Code=C1&logpath=1)
 - [스프링소프트_자사솔루션 관리툴](https://programmers.co.kr/job_positions/6594)
+- [퀘스트글로벌코리아_MES](https://www.jobkorea.co.kr/Recruit/GI_Read/35551111?Oem_Code=C1&logpath=1)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
