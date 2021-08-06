@@ -141,7 +141,7 @@
 ## WPF
 - [크래프톤_TERA 운영 툴](https://www.jobplanet.co.kr/companies/74946/job_postings/363852/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EB%B8%94%EB%A3%A8%ED%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4)
 - [트렌비_가격 크롤링 및 가공](https://www.wanted.co.kr/wd/22153)
-- [NCSoft_리니지M 운영 툴](https://careers.ncsoft.com/apply/view/38655)
+- [NCSOFT_리니지M 운영 툴](https://careers.ncsoft.com/apply/view/38655)
 - [Nexon_신규 프로젝트 클라이언트](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20190068)
 - [Movill_윈도우 앱](https://www.wanted.co.kr/wd/40037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [펫닥_반려동물 관련 윈도우 앱](https://www.wanted.co.kr/wd/35824?referer_id=20&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
@@ -176,6 +176,7 @@
 - [스프링소프트_자사솔루션 관리툴](https://programmers.co.kr/job_positions/6594)
 - [퀘스트글로벌코리아_MES](https://www.jobkorea.co.kr/Recruit/GI_Read/35551111?Oem_Code=C1&logpath=1)
 - [한미헬스케어_스마트팩토리](https://www.jobkorea.co.kr/Recruit/GI_Read/35537181?Oem_Code=C1&logpath=1)
+- [NCSOFT_런처](https://www.jobkorea.co.kr/Recruit/GI_Read/35538049?Oem_Code=C1&logpath=1)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
