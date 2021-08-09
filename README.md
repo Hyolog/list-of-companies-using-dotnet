@@ -123,6 +123,7 @@
  - [한화_설비관리시스템](https://www.hanwhain.com/web/apply/notification/view.do?rtSeq=5727)
  - [현대IT&E_CRM](https://www.jobkorea.co.kr/Recruit/GI_Read/35560685?Oem_Code=C1&logpath=1)
  - [비즈니스온커뮤니케이션_전자문서 유통서비스 솔루션](https://www.wanted.co.kr/wd/73785)
+ - [천재교과서_교육플랫폼](https://www.jobkorea.co.kr/Recruit/GI_Read/35599611?Oem_Code=C1&logpath=1)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
