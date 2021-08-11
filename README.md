@@ -180,6 +180,7 @@
 - [퀘스트글로벌코리아_MES](https://www.jobkorea.co.kr/Recruit/GI_Read/35551111?Oem_Code=C1&logpath=1)
 - [한미헬스케어_스마트팩토리](https://www.jobkorea.co.kr/Recruit/GI_Read/35537181?Oem_Code=C1&logpath=1)
 - [NCSOFT_런처](https://www.jobkorea.co.kr/Recruit/GI_Read/35538049?Oem_Code=C1&logpath=1)
+- [한컴위드_포렌식 솔루션](https://www.wanted.co.kr/wd/74244)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
