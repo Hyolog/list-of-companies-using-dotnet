@@ -78,6 +78,7 @@
 - [KTsat_위성관제 SW](https://www.jobkorea.co.kr/Recruit/GI_Read/34816989?Oem_Code=C1&PageGbn=ST)
 - [블루비커_백엔드](https://www.linkedin.com/jobs/view/2553823801/?refId=PYJs5Kfs8DejVyMifGUJJA%3D%3D&trackingId=Aa25%2F5t1aGNSs5cqm2xFHA%3D%3D)
 - [그라비티_플랫폼 개발](https://www.jobkorea.co.kr/Recruit/GI_Read/35380373?Oem_Code=C1&logpath=1)
+- [이베이코리아_플랫폼 개발](https://www.linkedin.com/jobs/view/2673970996/?alternateChannel=search&refId=ogYMUY1gej%2B8CxLgEYv0kw%3D%3D&trackingId=ebSVN%2BN8FyESI1%2B9HHHHXg%3D%3D)
 
 ## ASP.NET
  - [펄어비스_웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
