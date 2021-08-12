@@ -126,6 +126,7 @@
  - [비즈니스온커뮤니케이션_전자문서 유통서비스 솔루션](https://www.wanted.co.kr/wd/73785)
  - [천재교과서_교육플랫폼](https://www.jobkorea.co.kr/Recruit/GI_Read/35599611?Oem_Code=C1&logpath=1)
  - [이데일리_이데일리 웹사이트](https://www.jobkorea.co.kr/Recruit/GI_Read/35606921?Oem_Code=C1&logpath=1)
+ - [스룩_커머스 관련 웹 서비스](https://www.jobkorea.co.kr/Recruit/GI_Read/35639777?Oem_Code=C1&logpath=1)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
