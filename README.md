@@ -142,6 +142,7 @@
  - [브랜디드라이프스타일코리아_내부시스템 개발 및 유지보수](https://www.jobkorea.co.kr/Recruit/GI_Read/35400334?Oem_Code=C1&logpath=1)
  - [소셜인베스팅랩_주식 서비스 서버](https://www.rocketpunch.com/jobs/102839/%EB%B0%B1%EC%97%94%EB%93%9C-API-%EA%B0%9C%EB%B0%9C%EC%9E%90)
  - [GC녹십자헬스케어_헬스케어 서비스](https://programmers.co.kr/job_positions/6089)
+ - [트리노드_게임 플랫폼](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=40782239)
 
 ## WPF
 - [크래프톤_TERA 운영 툴](https://www.jobplanet.co.kr/companies/74946/job_postings/363852/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EB%B8%94%EB%A3%A8%ED%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4)
