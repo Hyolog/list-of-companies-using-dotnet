@@ -195,6 +195,7 @@
 - [한컴위드_포렌식 솔루션](https://www.wanted.co.kr/wd/74244)
 - [파이디지털헬스케어_의료시스템](https://www.saramin.co.kr/zf_user/company-info/view?csn=MjFmMmp4Sk5XQjJxdTlMNS9NSThPQT09)
 - [넥스트케이_AI 응용프로그램](https://www.wanted.co.kr/wd/61027)
+- [한국정보통신_POS 프로그램](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41008549&recommend_ids=eJxFj8sRw1AIA6vJXeLPOYWk%2Fy6CPTbvuKwGgaG7BP0r6U9%2BDT6k%2BivixvYJ%2BFjemEYLGRsXEh7utTYMCH8tyilhi10VnVuUMwiccKMj315CHMoNT0qxFrPIiYOT9dObIWox%2BFzV5H3V8wKEUsdmZ3FXpZVari1Xw%2FUv%2F0iRQAA%3D&view_type=search&searchword=wpf&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
