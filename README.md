@@ -203,6 +203,7 @@
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
 - [비욘드아이앤씨_배달대행 플랫폼](https://programmers.co.kr/job_positions/3560)
+- [에듀윌_출판업무 모듈 개발](https://recruit.eduwill.net/apply/noti/notiInfo?noti_idx=820)
 
 ## Xamarin
 - [티몬_스토어 앱](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=36828692) 
