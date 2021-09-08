@@ -139,6 +139,7 @@
  - [유비케어_EMR](https://www.wanted.co.kr/wd/75819)
  - [페이레터_PG 플랫폼](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40415706&recommend_ids=eJxFj7kNA0EMA6txLlIfFbuQ678LL86ANhwMqScsgyk%2B4nz6G9ZTcjyCvZhlxlk7gNGPxYtekxlrFR7w7WrUjQ3Tg9CGz1553704w45F%2Fa2Q44vdFGJHlU53riWnclHlqRuWLCfuVV7wGx6wrC%2FyMG93%2BD6I%2BgFHm0Ag&view_type=search&searchword=C%23&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
  - [콘텐츠웨이브_플랫폼개발](https://career.greetinghr.com/o/MzQ3Ng.-9RsZl1VoNl2ycZHOapySa3YmDc)
+ - [스킨알엑스_뷰티관련 웹 개발](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41006357&recommend_ids=eJxNkMkRA0EIA6PxX9zwdiCbfxZmL%2FBTpUbVMwpzgOtIrk98FVWKyCMJd3R3QUe6IjPBYmBTTplI0AjowJKiJLvMzEHd%2BgNz378RYWh64I2H3tfZ2%2FFunxYusprEjrHu1sz9D0YWjVdJBeW2yQFer3NLxquQ%2FY5t0afXf%2FwAmJxDnA%3D%3D&view_type=list&gz=1&t_ref_content=ing_recruit&t_ref=company_info_view#seq=0)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
