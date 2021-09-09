@@ -66,6 +66,7 @@
 - [드림시스_EAP](https://programmers.co.kr/job_positions/6903)
 - [악어디지털_이미지 파일 처리 플랫폼](https://www.rocketpunch.com/jobs/106239/%EA%B8%B0%EC%88%A0%EA%B0%9C%EB%B0%9C%EC%9C%88%EB%8F%84%EC%9A%B0%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B0%9C%EB%B0%9C)
 - [세피스_스마트팩토리](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41040952&recommend_ids=eJxNz8kNA1EIA9Bqcmcz4HMKmf67CMrkDzk%2BWbIhVKJK4mqVV71DheWFq403kXQeCtnUGurNcoYsB9VT9WNm%2BqSaN82s9HB2TRBPWkhL7BBCGlullnKanVVE619Kgzxs%2BrQeqqRpYskp9%2FPvqL193weQuUdi2r5DH1T5QBI%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
+- [아이디스_보안 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/35874150?Oem_Code=C1&logpath=1)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
