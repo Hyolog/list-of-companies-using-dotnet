@@ -69,6 +69,7 @@
 - [아이디스_보안 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/35874150?Oem_Code=C1&logpath=1)
 - [홈플러스_풀필먼트시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/35951352?Oem_Code=C1&logpath=1)
 - [FOREVER21 KROEA_ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/35967335?Oem_Code=C1&logpath=1)
+- [플러그링크_전기차 충전 서비스 시스템](https://www.rocketpunch.com/jobs/104535/%EB%B0%B1%EC%95%A4%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
