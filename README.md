@@ -211,6 +211,7 @@
 - [한국정보통신_POS 프로그램](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41008549&recommend_ids=eJxFj8sRw1AIA6vJXeLPOYWk%2Fy6CPTbvuKwGgaG7BP0r6U9%2BDT6k%2BivixvYJ%2BFjemEYLGRsXEh7utTYMCH8tyilhi10VnVuUMwiccKMj315CHMoNT0qxFrPIiYOT9dObIWox%2BFzV5H3V8wKEUsdmZ3FXpZVari1Xw%2FUv%2F0iRQAA%3D&view_type=search&searchword=wpf&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
 - [지아이티_설비 프로그램](https://www.jobkorea.co.kr/Recruit/GI_Read/35829908?Oem_Code=C1&logpath=1)
 - [ASM_장비제어](https://www.peoplenjob.com/jobs/4566963)
+- [플러그링크_전기차 서비스 플랫폼](https://www.rocketpunch.com/jobs/104535/%EB%B0%B1%EC%95%A4%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
