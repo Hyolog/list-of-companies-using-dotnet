@@ -150,6 +150,7 @@
  - [스킨알엑스_뷰티관련 웹 개발](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41006357&recommend_ids=eJxNkMkRA0EIA6PxX9zwdiCbfxZmL%2FBTpUbVMwpzgOtIrk98FVWKyCMJd3R3QUe6IjPBYmBTTplI0AjowJKiJLvMzEHd%2BgNz378RYWh64I2H3tfZ2%2FFunxYusprEjrHu1sz9D0YWjVdJBeW2yQFer3NLxquQ%2FY5t0afXf%2FwAmJxDnA%3D%3D&view_type=list&gz=1&t_ref_content=ing_recruit&t_ref=company_info_view#seq=0)
  - [코밴_단말기 서비스](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41013293&recommend_ids=eJxtkLkVA0EIQ6txLm6IXcj234XZWc%2FgwBkfCdBDISlKciXXK95K0AjolYQbwaJMuVWUuwuOWswcNFiKaDP5QnOA68yGoS%2F9wUtXQyud9OiDX72IHbM9S7rc2LkZNrnL2mGDVGx3bnrM1QbZ2JT9hW0mmJn7D%2FYtmlkLFxlEUK7NH1y%2BR24%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
  - [아트웍스코리아_이커머스 서비스](https://www.jobkorea.co.kr/Recruit/GI_Read/35925923?Oem_Code=C1&logpath=1)
+ - [미디어토마토_뉴스 웹](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41056382&recommend_ids=eJxNjcsVAzEMAqvJXaCP0TmFbP9dxNnE9h55DEwYPQhdYr%2FGOyzLjL0irNTll1Azenemj7Fhlwf8wCGwJmx3q3YOXxEG2VcE%2FETB7Dpbpdf4i%2BZ2GAsb7qpye1zBRxw41NT2dsxTbhhQPeAuY%2Fp6BqgoWy0QysgjMjLu7Qc%2Fkz%2Fu&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
