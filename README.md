@@ -71,6 +71,7 @@
 - [FOREVER21 KROEA_ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/35967335?Oem_Code=C1&logpath=1)
 - [플러그링크_전기차 충전 서비스 시스템](https://www.rocketpunch.com/jobs/104535/%EB%B0%B1%EC%95%A4%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C)
 - [캐치잇플레이_영어 학습 앱 백엔드](https://www.rocketpunch.com/jobs/101063/%EB%B3%91%EC%97%AD%ED%8A%B9%EB%A1%80%EC%BA%90%EC%B9%98%EC%9E%87%ED%94%8C%EB%A0%88%EC%9D%B4%EC%84%9C%EB%B2%84%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90-%EB%B3%B4%EC%B6%A9%EC%97%AD%ED%98%84%EC%97%AD-%EC%9D%B4%EC%A7%81-%EA%B7%BC%EB%AC%B4%EA%B0%80%EB%8A%A5)
+- [이베이코리아_광고플랫폼](https://ebaykorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=74699)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
