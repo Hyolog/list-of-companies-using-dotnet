@@ -228,6 +228,7 @@
 - [가온미디어_MES](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41109031&recommend_ids=eJxNjrkRxDAMA6txDv5EfIW4%2Fy4sa06Swx0sATo0LbvuVl71c0i2KxaKOj3zbpGJQiV7IJYcrlsWrUzslBJMX7dAIzyOzGZgN6vDxM5QB%2BPdzYkoZMtGHV9P%2BZ9GWPvanciPXCM8VWPIkVvW4Cg7t9Ud8knNNN6vHjWsP9Q%3D&view_type=mail_landing&gz=1&utm_source=job-search-api&utm_campaign=saramin-job-search-api&utm_medium=api#seq=0)
 - [얼그레잇_회수 시스템](https://www.rocketpunch.com/jobs/109543/%ED%9A%8C%EC%88%98-%EC%A0%91%EC%88%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 - [미니소프트_윈도우 앱](https://programmers.co.kr/job_positions/7131?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [스냅스_공장 자동화 프로그램](https://programmers.co.kr/job_positions/7914)
 
 ## Xamarin
 - [티몬_스토어 앱](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=36828692) 
