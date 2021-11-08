@@ -74,6 +74,7 @@
 - [이베이코리아_광고플랫폼](https://ebaykorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=74699)
 - [한화테크윈_영상관제(VMS) Application](https://programmers.co.kr/job_positions/8115)
 - [페이크럭스_POS & KIOSK](https://www.rocketpunch.com/jobs/110390/windows-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
+- [지머니트랜스_오픈뱅킹 시스템](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41526242&recommend_ids=eJxNj7sVwzAMxKZJfzz%2B6wzi%2FbeI7BeL6ojmQBhSOrquYn%2FyayJmpbhK5EHrDOhGB9DcSELNX4QHwH6n7uWk%2FlE7BaojWp6yLYIBrjEiRYjPG0atHiTScxBQ8Ph5XbPcAfoksMLPKVneo9czjkBZgfHgDxJ7P6I%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
