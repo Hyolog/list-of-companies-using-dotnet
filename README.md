@@ -224,6 +224,7 @@
 - [ASM_장비제어](https://www.peoplenjob.com/jobs/4566963)
 - [플러그링크_전기차 서비스 플랫폼](https://www.rocketpunch.com/jobs/104535/%EB%B0%B1%EC%95%A4%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C)
 - [휴라_측정 장비 소프트웨어](https://programmers.co.kr/job_positions/7665)
+- [데이터온_POS](https://www.wanted.co.kr/wd/65980?utm_source=email&utm_medium=braze_mkt&utm_campaign=recruit_recommend_position&utm_content=company_more_new_2)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
