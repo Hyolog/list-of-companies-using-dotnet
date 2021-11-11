@@ -162,6 +162,7 @@
  - [네트러닝홀딩스한국지사_e러닝 웹 플랫폼](https://www.jobkorea.co.kr/Recruit/GI_Read/36216291?Oem_Code=C1&logpath=1)
  - [로지포커스_백엔드](https://m.jobkorea.co.kr/Recruit/GI_Read/36101816)
  - [더플랜지_인공지능 영어 회화 앱](https://www.rocketpunch.com/jobs/106510/%EA%B0%9C%EB%B0%9C%EC%9E%90)
+ - [핸디소프트_그룹웨어 연계API](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41576275&recommend_ids=eJxNjrsNw1AMA6dJL1LUr84g3n%2BLJA7w5PJwlEjBA2F5NfCqt%2BAydl3NuVG0ijo2cjBxbJgPf%2Fi3LHP5CUPeNXvrUuR%2BdmbGsfIJYmd4ox%2BrJty5r6KhXjSk8tn7TT8sMTrIHNqukpXl3hJl1Y%2Fe6r7xAxs6P8w%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
