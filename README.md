@@ -81,7 +81,7 @@
 - [펍지_웹서버](https://www.wanted.co.kr/wd/12800)
 - [테슬라](https://www.tesla.com/ko_KR/careers/job/-56433)
 - [뤼이드_백엔드](https://www.wanted.co.kr/wd/32724)
-- [체커](https://apply.workable.com/chequer/j/9BDAF4C372/)
+- [체커](https://www.querypie.com/recruit/dotnet)
 - [프렌즈게임즈_서버](https://kakaogames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=19396)
 - [넥슨_마이크로서비스](https://kr.indeed.com/viewjob?jk=cc778e2116c22ee1&tk=1ehumen26p3b8801&from=serp&vjs=3)
 - [컴투스_낚시의신 서버](https://com2us.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=43879)
