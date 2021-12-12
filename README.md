@@ -1,6 +1,6 @@
 # list-of-companies-using-dotnet
 ```
-.NET 기술을 사용하는 기업 정보
+.NET 기술을 사용하는 국내 기업 정보
 ```
 
 ## Description
@@ -22,8 +22,6 @@
 - [위메프_그룹웨어](https://www.wanted.co.kr/wd/22834)
 - [KT_PG](https://recruit.kt.com/apply/notifyView?seq=16388)
 - [스마일게이트_로스트아크 플랫폼](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=171534)
-- [블리자드캘리포니아_인사툴](https://careers.blizzard.com/ko-kr/openings/o26ybfwB)
-- [EA벤쿠버_게임 관리툴](https://ea.gr8people.com/index.gp?method=cappportal.showJob&opportunityID=156206&sid=https://www.google.com/)
 - [이스트소프트](http://job.incruit.com/entry/jobpost.asp?job=1811070000616)
 - [롯데](https://job.lotte.co.kr/LotteRecruit/Recruit_Info/RecruitView.aspx?emptype=20000252&nowpage=1&keyword=&keyselect=&regtype=)
 - [라인플러스_게임 서버](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=32098808)
@@ -61,7 +59,6 @@
 - [신세계아이앤씨_그룹사 웹 시스템](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5793)
 - [에이피티씨_반도체 장비 제어](https://programmers.co.kr/job_positions/3910)
 - [틸론_VDI 솔루션](https://programmers.co.kr/job_positions/2890)
-- [JaneStreet_윈도우 풀스택](https://www.janestreet.com/join-jane-street/position/5127816002/)
 - [하나머티리얼즈_스마트팩토리](https://www.jobkorea.co.kr/Recruit/GI_Read/35537941?Oem_Code=C1&logpath=1)
 - [드림시스_EAP](https://programmers.co.kr/job_positions/6903)
 - [악어디지털_이미지 파일 처리 플랫폼](https://www.rocketpunch.com/jobs/106239/%EA%B8%B0%EC%88%A0%EA%B0%9C%EB%B0%9C%EC%9C%88%EB%8F%84%EC%9A%B0%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B0%9C%EB%B0%9C)
@@ -80,7 +77,6 @@
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
 - [펍지_웹서버](https://www.wanted.co.kr/wd/12800)
-- [테슬라](https://www.tesla.com/ko_KR/careers/job/-56433)
 - [뤼이드_백엔드](https://www.wanted.co.kr/wd/32724)
 - [체커](https://www.querypie.com/recruit/dotnet)
 - [프렌즈게임즈_서버](https://kakaogames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=19396)
@@ -245,3 +241,5 @@
 - [티몬_스토어 앱](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=36828692) 
 - [드림포라_모바일 앱](https://www.rocketpunch.com/jobs/93092/%ED%8C%80%EC%9E%A5%EA%B8%89-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 - [망고슬래브](https://www.wanted.co.kr/wd/61389)
+
+## 
