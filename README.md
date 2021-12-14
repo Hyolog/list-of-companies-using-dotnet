@@ -228,6 +228,7 @@
 - [휴라_측정 장비 소프트웨어](https://programmers.co.kr/job_positions/7665)
 - [데이터온_POS](https://www.wanted.co.kr/wd/65980?utm_source=email&utm_medium=braze_mkt&utm_campaign=recruit_recommend_position&utm_content=company_more_new_2)
 - [하이앤디_POS, KIOSK](https://www.rocketpunch.com/jobs/112119/%ED%83%80%EC%9E%84%EC%98%A4%EB%8D%94-POS-KIOSKC-WPF-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91)
+- [제이스퓨처_클립다운 프로그램](https://programmers.co.kr/job_positions/8841)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
