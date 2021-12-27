@@ -230,6 +230,7 @@
 - [데이터온_POS](https://www.wanted.co.kr/wd/65980?utm_source=email&utm_medium=braze_mkt&utm_campaign=recruit_recommend_position&utm_content=company_more_new_2)
 - [하이앤디_POS, KIOSK](https://www.rocketpunch.com/jobs/112119/%ED%83%80%EC%9E%84%EC%98%A4%EB%8D%94-POS-KIOSKC-WPF-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91)
 - [제이스퓨처_클립다운 프로그램](https://programmers.co.kr/job_positions/8841)
+- [휴카시스템_의료기기 운영 시스템](https://www.rocketpunch.com/jobs/115626/%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B8%B0-SW-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%AA%A8%EC%A7%91)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
