@@ -96,6 +96,7 @@
 - [뉴엔네트웍스_방화벽 시스템](https://www.wanted.co.kr/wd/54874)
 - [클로버추얼패션](https://www.wanted.co.kr/wd/61612)
 - [미스터블루_웹툰 운영 시스템](https://programmers.co.kr/job_positions/8971)
+- [해긴_게임 ](https://programmers.co.kr/job_positions/9016)
 
 ## ASP.NET
  - [펄어비스_웹](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
