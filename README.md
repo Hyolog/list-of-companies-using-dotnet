@@ -77,6 +77,7 @@
 - [엔지온시스템_반도체 장비 제어](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40552569&recommend_ids=eJxNjrkRA0EMw6pxvnpJxi7k%2Bu%2FC983KIYbQCGlol%2BqgrQ%2B%2BaRQBO%2Bh6sBCMc7UbCws2KFeGRg6TbK%2FA8mt9kbVSl%2FxiZtHnViSx5W6Qmqq87FlZRO61eq2eR6Uzuicj2JkbUyGfW5RX1chi6a854HlX%2FQCCDkBw&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
 - [아이텀_블록체인 지갑 SDK](https://www.rocketpunch.com/jobs/115410/Windows-Engineer-NET)
 - [삼표_ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/37032297?Oem_Code=C1&logpath=1)
+- [청세_세탁 관리 ERP](https://programmers.co.kr/job_positions/9047)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
