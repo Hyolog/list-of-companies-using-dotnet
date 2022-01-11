@@ -171,6 +171,7 @@
  - [핸디소프트_그룹웨어 연계API](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41576275&recommend_ids=eJxNjrsNw1AMA6dJL1LUr84g3n%2BLJA7w5PJwlEjBA2F5NfCqt%2BAydl3NuVG0ijo2cjBxbJgPf%2Fi3LHP5CUPeNXvrUuR%2BdmbGsfIJYmd4ox%2BrJty5r6KhXjSk8tn7TT8sMTrIHNqukpXl3hJl1Y%2Fe6r7xAxs6P8w%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
  - [바른컴퍼니_자사몰 웹사이트](https://www.wanted.co.kr/wd/84749)
  - [애드크림_광고포털](https://www.wanted.co.kr/wd/90740)
+ - [이랜드이노플_그룹웨어](https://www.jobkorea.co.kr/Recruit/GI_Read/37051563?Oem_Code=C1&logpath=1)
  
 ## ASP.NET Core
  - [넥슨_백엔드](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
