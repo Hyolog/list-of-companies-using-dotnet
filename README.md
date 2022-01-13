@@ -78,6 +78,7 @@
 - [삼표_ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/37032297?Oem_Code=C1&logpath=1)
 - [청세_세탁 관리 ERP](https://programmers.co.kr/job_positions/9047)
 - [룩옵틱스_ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/37108605?Oem_Code=C1&logpath=1)
+- [아이디에스앤트러스트_제약 공장 시스템](https://programmers.co.kr/job_positions/9089)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
