@@ -83,6 +83,7 @@
 - [팅크웨어_그룹사 웹 서비스](https://www.jobkorea.co.kr/Recruit/GI_Read/37357023?Oem_Code=C1&logpath=1)
 - [남양넥스모_MES 시스템](https://www.jobkorea.co.kr/Recruit/GI_Read/37392718?Oem_Code=C1&logpath=1&stext=.NET&listno=6)
 - [티쿤글로벌_온라인 쇼핑몰 플랫폼](https://programmers.co.kr/job_positions/9812)
+- [위메진소프트_의료 관련 IT 솔루션](https://www.wanted.co.kr/wd/99013)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
