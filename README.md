@@ -182,7 +182,7 @@
  - [이퍼블릭코리아_ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/37070913?Oem_Code=C1&logpath=1)
  - [인포바인_백엔드&API](https://www.jobkorea.co.kr/Recruit/GI_Read/36953252?Oem_Code=C1&logpath=1)
  - [와이드모바일_풀스택](https://www.jobkorea.co.kr/Recruit/GI_Read/37124581?Oem_Code=C1&logpath=1)
- - [토마토_증권 웹/서버](https://www.wanted.co.kr/wd/96014)
+ - [증권통_증권 웹/서버](https://www.wanted.co.kr/wd/96014)
  - [유도_ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/37451330?Oem_Code=C1&logpath=1&stext=.NET&listno=4)
  
 ## ASP.NET Core
