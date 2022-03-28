@@ -86,6 +86,7 @@
 - [위메진소프트_의료 관련 IT 솔루션](https://www.wanted.co.kr/wd/99013)
 - [삼양옵틱스_MES](https://programmers.co.kr/job_positions/10127)
 - [단디코리아_ERP](https://www.wanted.co.kr/wd/102822)
+- [키스템프_그룹웨어](https://www.jobkorea.co.kr/Recruit/GI_Read/37835355?Oem_Code=C1&logpath=1&stext=.NET&listno=1)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
