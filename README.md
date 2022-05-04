@@ -260,6 +260,7 @@
 - [더스팟_스마트폰 포렌식 솔루션 개발](https://www.wanted.co.kr/wd/93095)
 - [페이타렙_커피주문앱](https://programmers.co.kr/job_positions/9643)
 - [휴비츠_의료 영상기기](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=42702675&recommend_ids=eJxNj8sRQzEIA6vJHQRY4pxCXv9dxJM3g31cFvFJsAnVI%2FcPv4ml6OxH6BeJIDe%2BtrA6r2aDh08zuSsaS1BWY4s025Odr7WWazChAAcVhuVnlFllDKYBebIs22de2XDvk21oHUtF3otqP%2BV3NmIdhHn8b%2F4BYY5AMw%3D%3D&view_type=list&gz=1&t_ref_content=ing_recruit&t_ref=company_info_view#seq=0)
+- [릴리커버_키오스크](https://www.rocketpunch.com/jobs/125872/%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91C-WPF-MVVM-%EA%B2%BD%EB%A0%A5%EC%9A%B0%EB%8C%80)
 
 ## Winform
 - [난소프트_WMS 솔루션 개발](https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9)
