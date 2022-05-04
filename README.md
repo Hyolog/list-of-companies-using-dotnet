@@ -271,6 +271,7 @@
 - [스냅스_공장 자동화 프로그램](https://programmers.co.kr/job_positions/7914)
 - [악어디지털_이미지 파일 처리 플랫폼](https://www.rocketpunch.com/jobs/106239/%EA%B8%B0%EC%88%A0%EA%B0%9C%EB%B0%9C%EC%9C%88%EB%8F%84%EC%9A%B0%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B0%9C%EB%B0%9C)
 - [쿠프마케팅](https://programmers.co.kr/job_positions/11387)
+- [만나아이티_HTS](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=42956110&view_type=search)
 
 ## Xamarin
 - [티몬_스토어 앱](http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=36828692) 
