@@ -88,7 +88,8 @@
 - [단디코리아_ERP](https://www.wanted.co.kr/wd/102822)
 - [키스템프_그룹웨어](https://www.jobkorea.co.kr/Recruit/GI_Read/37835355?Oem_Code=C1&logpath=1&stext=.NET&listno=1)
 - [와탭랩스_모니터링 에이전트](https://www.wanted.co.kr/wd/4329)
-- [웅진-SAP,ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/38686715?Oem_Code=C1&logpath=1&stext=.NET&listno=1)
+- [웅진_SAP,ERP](https://www.jobkorea.co.kr/Recruit/GI_Read/38686715?Oem_Code=C1&logpath=1&stext=.NET&listno=1)
+- [시루정보_금용 솔루션 개발](https://www.wanted.co.kr/wd/113785)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
