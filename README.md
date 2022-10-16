@@ -93,6 +93,7 @@
 - [에이피알_영상처리 프로그램](https://career.programmers.co.kr/job_positions/12881)
 - [Apple](https://www.linkedin.com/jobs/search/?alertAction=viewjobs&currentJobId=3178548339&f_TPR=a1664082004-&keywords=.net&savedSearchId=1275289096&searchAlertRefId=38f097c6-94b3-4b24-988f-9120cf9e9065)
 - [미라콤아이앤씨](https://www.jobkorea.co.kr/Recruit/GI_Read/39943399?Oem_Code=C1&logpath=1&stext=.NET&listno=12)
+- [지마켓_판매관리 백엔드](https://career.programmers.co.kr/job_positions/14633)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
