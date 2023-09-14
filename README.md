@@ -95,6 +95,7 @@
 - [미라콤아이앤씨](https://www.jobkorea.co.kr/Recruit/GI_Read/39943399?Oem_Code=C1&logpath=1&stext=.NET&listno=12)
 - [지마켓_판매관리 백엔드](https://career.programmers.co.kr/job_positions/14633)
 - [엔에이치엔크로센트_VDI Client](https://career.programmers.co.kr/job_positions/14335)
+- [CJ OliveNetworks_WCS 시스템 개발](https://www.linkedin.com/jobs/view/3655438297)
 
 ## .NET Core
 - [플라네타리움_소프트웨어엔지니어](https://recruit.planetariumhq.com/software-engineer)
