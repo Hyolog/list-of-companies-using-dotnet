@@ -385,6 +385,7 @@
 
 ### 컴퓨터시스템 통합 자문, 구축 및 관리업
 - [씨제이올리브네트웍스](https://www.linkedin.com/jobs/view/3655438297)
+- [에이시에스](https://www.jobkorea.co.kr/Recruit/GI_Read/46220159?Oem_Code=C1&logpath=1&stext=.NET%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=5)
 
 ### 택배업
 - [(주)김집사](https://www.wanted.co.kr/wd/62990)
