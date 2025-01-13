@@ -21,7 +21,7 @@ jobs:
 
     - name: Clone Hyolog.github.io repository
       run: |
-        git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Hyolog/Hyolog.github.io.git hyolog-io
+        git clone https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/Hyolog/Hyolog.github.io.git hyolog-io
         ls -la hyolog-io
 
     - name: Copy companies.json to Hyolog.github.io
