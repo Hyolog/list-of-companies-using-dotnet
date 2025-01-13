@@ -23,7 +23,6 @@
 
 ### 게임 소프트웨어 개발 및 공급업
 - [(주)크래프톤](https://boards.greenhouse.io/pubgcorporation/jobs/5527602002?gh_src=3c541eb92us)
-- [(주)크래프톤](https://www.jobplanet.co.kr/companies/74946/job_postings/363852/%EA%B2%8C%EC%9E%84%ED%9A%8C%EC%82%AC-%EB%B8%94%EB%A3%A8%ED%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4)
 
 ### 경 인쇄업
 - [(주)스냅스](https://programmers.co.kr/job_positions/7914)
@@ -94,7 +93,6 @@
 ### 기타 발전업
 - [(주)에스케이씨엔씨](https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet)
 - [(주)플러그링크](https://www.rocketpunch.com/jobs/104535/%EB%B0%B1%EC%95%A4%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C)
-- [(주)플러그링크](https://www.rocketpunch.com/jobs/104535/%EB%B0%B1%EC%95%A4%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C)
 
 ### 기타 보험 및 연금관련 서비스업
 - [밀리만코리아(주)](https://www.wanted.co.kr/wd/39688)
@@ -127,7 +125,6 @@
 - [에스케이실트론(주)](https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet)
 
 ### 대형 마트
-- [홈플러스(주)](https://www.jobkorea.co.kr/Recruit/GI_Read/35951352?Oem_Code=C1&logpath=1)
 - [홈플러스(주)](https://www.jobkorea.co.kr/Recruit/GI_Read/35519496?Oem_Code=C1&logpath=1)
 
 ### 데이터베이스 및 온라인정보 제공업
@@ -223,28 +220,16 @@
 
 ### 유선 온라인 게임 소프트웨어 개발 및 공급업
 - [(주)그라비티](https://www.jobkorea.co.kr/Recruit/GI_Read/34977618?Oem_Code=C1&logpath=1)
-- [(주)그라비티](https://www.jobkorea.co.kr/Recruit/GI_Read/35380373?Oem_Code=C1&logpath=1)
-- [(주)넥슨코리아](http://company.nexon.com/404_error.aspx?aspxerrorpath=/Careers/Notice/View.aspx)
-- [(주)넥슨코리아](https://kr.indeed.com/viewjob?jk=cc778e2116c22ee1&tk=1ehumen26p3b8801&from=serp&vjs=3)
-- [(주)넥슨코리아](https://www.wanted.co.kr/wd/5902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
-- [(주)넥슨코리아](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20190237)
-- [(주)넥슨코리아](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20200100)
 - [(주)넥슨코리아](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20190068)
 - [(주)스마일게이트알피지](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=171534)
 - [(주)스마일게이트엔터테인먼트](https://www.jobkorea.co.kr/Recruit/GI_Read/34328154?Oem_Code=C1&PageGbn=ST)
-- [(주)스마일게이트엔터테인먼트](https://www.jobkorea.co.kr/Recruit/GI_Read/35296872?Oem_Code=C1&logpath=1)
 - [(주)스파이더크래프트](https://www.wanted.co.kr/wd/69534)
 - [(주)액토즈소프트](https://www.jobkorea.co.kr/Search/?stext=.net&cotype=1%2C4&jobtype=1)
-- [(주)액토즈소프트](https://www.jobkorea.co.kr/Recruit/GI_Read/34506547?Oem_Code=C1)
 - [(주)엑스엘게임즈](https://xlgames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=25228)
 - [(주)엔씨소프트](https://www.jobkorea.co.kr/Recruit/GI_Read/35118771?Oem_Code=C1&logpath=1)
-- [(주)엔씨소프트](https://careers.ncsoft.com/apply/view/38655)
-- [(주)엔씨소프트](https://www.jobkorea.co.kr/Recruit/GI_Read/35538049?Oem_Code=C1&logpath=1)
 - [(주)위메이드](https://www.jobkorea.co.kr/Search/?stext=%e3%88%9c%ec%9c%84%eb%a9%94%ec%9d%b4%eb%93%9c)
-- [(주)위메이드](https://www.wemade.com/Recruit/JobView/58?page=1&search=)
 - [(주)조이시티](https://corp.joycity.com/recruit/JobInfo.do)
 - [(주)펄어비스](http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630)
-- [(주)펄어비스](https://pearlabyss-recruit.saramin.co.kr/apply_site/recruit/view)
 - [넷마블(주)](https://company.netmarble.com/rem/www/notice.jsp?anno_id=1757858&annotype=all)
 - [넷마블(주)](https://www.jobkorea.co.kr/Recruit/GI_Read/34674564?Oem_Code=C1&logpath=1)
 - [아레나캐스트(주)](https://www.rocketpunch.com/jobs/97812)
@@ -310,7 +295,6 @@
 - [(주)펫닥](https://www.wanted.co.kr/wd/35824?referer_id=20&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [(주)하이앤디 ](https://www.rocketpunch.com/jobs/112119/%ED%83%80%EC%9E%84%EC%98%A4%EB%8D%94-POS-KIOSKC-WPF-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91)
 - [(주)핸디소프트](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41576275&recommend_ids=eJxNjrsNw1AMA6dJL1LUr84g3n%2BLJA7w5PJwlEjBA2F5NfCqt%2BAydl3NuVG0ijo2cjBxbJgPf%2Fi3LHP5CUPeNXvrUuR%2BdmbGsfIJYmd4ox%2BrJty5r6KhXjSk8tn7TT8sMTrIHNqukpXl3hJl1Y%2Fe6r7xAxs6P8w%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
-- [(주)현대아이티앤이](https://www.jobkorea.co.kr/Recruit/GI_Read/34461285?Oem_Code=C1&logpath=1)
 - [(주)현대아이티앤이](https://www.jobkorea.co.kr/Recruit/GI_Read/35560685?Oem_Code=C1&logpath=1)
 - [망고슬래브(주)](https://www.wanted.co.kr/wd/61389)
 - [세이지리서치(주)](https://www.rocketpunch.com/jobs/92854/Application-Engineer-Tech-Lead)
@@ -323,7 +307,6 @@
 - [펜타큐브(주)](https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 - [포디리플레이코리아(주)](https://www.wanted.co.kr/company/1485)
 - [현대오토에버(주)](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38670780&recommend_ids=eJxtj7ENQzEIRKdJb%2BDgTJ1BvP8WQcm3cRGJwo8HJ2yTGjRZnv7i2y5ceBr1npffeLxUXX7j44Pi8GrEDyeCuYjYVu0fnu2c0dtUmxjLQx5UHXEQmXCeME%2BO%2BspGaEV3lCMHrO%2Bim0QjXOSykaJ5EIBDO8pMmNcwWGc0SuY3%2BQOn8FBy&view_type=list&gz=1&t_ref_content=general&t_ref=jobcategory_recruit#seq=0)
-- [현대오토에버(주)](https://www.jobkorea.co.kr/Recruit/GI_Read/34221018?Oem_Code=C1&logpath=1)
 
 ### 의복 액세서리 및 모조 장신구 소매업
 - [포에버21](https://www.jobkorea.co.kr/Recruit/GI_Read/35967335?Oem_Code=C1&logpath=1)
@@ -354,9 +337,7 @@
 - [라스트오더(LastOrder)](https://www.rocketpunch.com/jobs/98488/%EB%9D%BC%EC%8A%A4%ED%8A%B8%EC%98%A4%EB%8D%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 - [아움컴퍼니](https://www.rocketpunch.com/jobs/105394/%E2%AD%90%EF%B8%8F%EC%9B%B9-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8B%98%EC%9D%84-%EB%AA%A8%EC%8B%AD%EB%8B%88%EB%8B%A4C-ASPNET%E2%AD%90%EF%B8%8F)
 - [예스이십사(주)](https://www.jobkorea.co.kr/Recruit/GI_Read/34255441?Oem_Code=C1)
-- [이베이코리아유한책임회사](https://ebaykorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=74699)
 - [이베이코리아유한책임회사](https://www.linkedin.com/jobs/view/2673970996/?alternateChannel=search&refId=ogYMUY1gej%2B8CxLgEYv0kw%3D%3D&trackingId=ebSVN%2BN8FyESI1%2B9HHHHXg%3D%3D)
-- [이베이코리아유한책임회사](https://www.wanted.co.kr/wd/40315)
 
 ### 전자상거래 소매업
 - [(주)비알스톰](https://www.rocketpunch.com/jobs/97190)
@@ -385,7 +366,6 @@
 - [(주)포블게이트](https://www.rocketpunch.com/companies/foblgate/jobs)
 - [(주)플레이스5](https://www.wanted.co.kr/wd/37864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [(주)플레이오토](https://www.playauto.co.kr/com/recruit_apply.html?num=33)
-- [롯데정보통신(주)](https://job.lotte.co.kr/LotteRecruit/Recruit_Info/RecruitView.aspx?emptype=20000252&nowpage=1&keyword=&keyselect=&regtype=)
 - [롯데정보통신(주)](https://www.jobkorea.co.kr/Recruit/GI_Read/34531515?Oem_Code=C1&logpath=1)
 - [이베이재팬(유)](https://job.incruit.com/entry/jobpost.asp?job=2010140002935)
 
