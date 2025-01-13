@@ -242,6 +242,7 @@
 
 ### 유선 통신장비 제조업
 - [(주)네오정보시스템](https://www.wanted.co.kr/wd/59842)
+- [투윈스컴](https://www.jobkorea.co.kr/Recruit/GI_Read/46266689?Oem_Code=C1&logpath=1&stext=.NET%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=18)
 
 ### 유인 항공기, 항공우주선 및 보조장치 제조업
 - [(주)쎄트렉아이](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=37644057)
