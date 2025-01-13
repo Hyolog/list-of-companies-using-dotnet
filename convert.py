@@ -23,9 +23,10 @@ markdown_content = '''# list-of-companies-using-dotnet
 ## PR Convention
 - companies.json 파일에 아래 항목을 포함한 기업정보 추가 후 PR을 요청합니다.
   - "name"(회사명)
-  - "location"(회사위치)
+  - "location"(회사 주소)
   - "businessGroup"(업종)
-  - "recruitUrl"(채용공고링크)
+  - "recruitUrl"(채용공고 링크)
+- 회사 주소는 [카카오맵](https://map.kakao.com/)을 기준으로 입력합니다.
 - 업종은 [전자공시시스템](https://dart.fss.or.kr/dsae001/main.do)에서 회사명 검색 후 확인할 수 있습니다.
 
  
