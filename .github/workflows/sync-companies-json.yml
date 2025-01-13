@@ -3,7 +3,12 @@ name: Sync companies.json to Hyolog.github.io
 on:
   push:
     paths:
-      - companies.json
+      - 'companies.json'
+    branches:
+      - main
+  pull_request:
+    paths:
+      - 'companies.json'
     branches:
       - main
   workflow_dispatch:
