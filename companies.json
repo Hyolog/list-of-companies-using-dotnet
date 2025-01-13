@@ -1343,8 +1343,7 @@
       "location": "서울특별시 강남구 테헤란로 152 강남파이낸스센터 34층",
       "businessGroup": "통신 판매업",
       "recruitUrl": "https://career.programmers.co.kr/job_positions/14633"
-    }
-    ,
+    },
     {
       "name": "이스트시큐리티",
       "location": "서울특별시 서초구 반포대로 3 (서초동, 이스트빌딩) 이스트빌딩 3층",
@@ -1356,6 +1355,12 @@
       "location": "서울특별시 용산구 한강대로 366 (동자동, 트윈시티남산) 10층",
       "businessGroup": "컴퓨터시스템 통합 자문, 구축 및 관리업",
       "recruitUrl": "https://www.linkedin.com/jobs/view/3655438297"
+    },
+    {
+      "name": "이엠시티(주)",
+      "location": "대전 유성구 대덕대로512번길 20",
+      "businessGroup": "절연 코드세트 및 기타 도체 제조업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=48649886&recommend_ids=eJxNj7kRw1AIRKtxzrHAErsQ9d%2BFkTzzUfhmLwDbW1ovan7qC7YJy64WezBhXaumh2YuBhEyqA8yewKbNYXeZvk3OxVYBFJeu17Wdqq6pbxOVYHB2iFWRqzZkY29qhkmr%2BY5RM4uXVR1swGxOGYKp2DNFfPjrf4AofFAsQ%3D%3D&view_type=list&gz=1&t_ref_content=ing_recruit&t_ref=company_info_view&relayNonce=00ebc4180694cfc5be17&immediately_apply_layer_open=n#seq=0"
     }
   ]
 }
