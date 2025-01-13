@@ -1,0 +1,34 @@
+name: Sync companies.json to Hyolog.github.io
+
+on:
+  push:
+    paths:
+      - companies.json
+    branches:
+      - main
+
+jobs:
+  sync-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout source repository
+      uses: actions/checkout@v3
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+
+    - name: Clone Hyolog.github.io repository
+      run: |
+        git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Hyolog/Hyolog.github.io.git hyolog-io
+        ls -la hyolog-io
+
+    - name: Copy companies.json to Hyolog.github.io
+      run: |
+        cp companies.json hyolog-io/companies.json
+        cd hyolog-io
+        git add companies.json
+        git commit -m "Update companies.json from list-of-companies-using-dotnet"
+        git push
