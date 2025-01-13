@@ -1,0 +1,1361 @@
+{
+  "companies": [
+    {
+      "name": "(주)엑스엘게임즈",
+      "location": "경기 성남시 분당구 대왕판교로645번길 14, 7층,8층",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://xlgames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=25228"
+    },
+    {
+      "name": "(주)플레이오토",
+      "location": "서울 구로구 디지털로26길 123, 14층",
+      "businessGroup": "컴퓨터 프로그래밍 서비스업",
+      "recruitUrl": "https://www.playauto.co.kr/com/recruit_apply.html?num=33"
+    },
+    {
+      "name": "넷마블(주)",
+      "location": "서울 구로구 디지털로26길 38",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://company.netmarble.com/rem/www/notice.jsp?anno_id=1757858&annotype=all"
+    },
+    {
+      "name": "(주)위메프",
+      "location": "서울 강남구 영동대로 502",
+      "businessGroup": "전자상거래 소매 중개업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/22834"
+    },
+    {
+      "name": "(주)케이티",
+      "location": "경기 성남시 분당구 불정로 90",
+      "businessGroup": "무선 및 위성 통신업",
+      "recruitUrl": "https://recruit.kt.com/apply/notifyView?seq=16388"
+    },
+    {
+      "name": "(주)스마일게이트알피지",
+      "location": "경기 성남시 분당구 판교로 344, 6층",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=171534"
+    },
+    {
+      "name": "(주)이스트소프트",
+      "location": "서울 서초구 반포대로 3",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://job.incruit.com/jobdb_list/searchjob.asp?ct=3&ty=1&cd=149&from=jobpostnone"
+    },
+    {
+      "name": "라인플러스(주)",
+      "location": "경기 성남시 분당구 황새울로360번길 42",
+      "businessGroup": "포털 및 기타 인터넷 정보매개 서비스업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=32098808"
+    },
+    {
+      "name": "(주)위메이드",
+      "location": "경기 성남시 분당구 대왕판교로644번길 49, 코리아벤처타운업무시설 비블럭",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Search/?stext=%e3%88%9c%ec%9c%84%eb%a9%94%ec%9d%b4%eb%93%9c"
+    },
+    {
+      "name": "(주)인터파크",
+      "location": "서울 강남구 삼성로 512",
+      "businessGroup": "전자상거래 소매 중개업",
+      "recruitUrl": "https://interpark.recruiter.co.kr/app/jobnotice/list"
+    },
+    {
+      "name": "(주)조이시티",
+      "location": "경기 성남시 분당구 분당로 55",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://corp.joycity.com/recruit/JobInfo.do"
+    },
+    {
+      "name": "(주)포블게이트",
+      "location": "서울 서초구 서초대로 397, A동 2707호",
+      "businessGroup": "컴퓨터 프로그래밍 서비스업",
+      "recruitUrl": "https://www.rocketpunch.com/companies/foblgate/jobs"
+    },
+    {
+      "name": "(주)엔미디어플랫폼",
+      "location": "경기 성남시 분당구 판교로256번길 25, 지비2 비동 3층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=38456282&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "(주)쎄트렉아이",
+      "location": "대전 유성구 유성대로1628번길 21",
+      "businessGroup": "유인 항공기, 항공우주선 및 보조장치 제조업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=37644057"
+    },
+    {
+      "name": "잼팟(주)",
+      "location": "서울 영등포구 문래로28길 25, 7층",
+      "businessGroup": "모바일 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/37232?referer_id=332797"
+    },
+    {
+      "name": "(주)아이템베이",
+      "location": "서울 양천구 목동중앙북로 112",
+      "businessGroup": "그 외 기타 정보 서비스업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=33506946"
+    },
+    {
+      "name": "(주)카카오뱅크",
+      "location": "경기 성남시 분당구 판교역로 231, S동 5층",
+      "businessGroup": "국내은행",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38723747&recommend_ids=eJxd0McNQyEQRdFqvJ8c1i5k%2Bu%2FClviGh5eXMwShlSLSOt7%2ByrdCjq0FDko5vhM8%2BvKV2zuStkeVck1aPNc1y7W7OU4qacYk6V%2Fusz3McZyLcfzJ37iSWB6XNjPIFEo8zMlBXZThmzpdQL9tqMGBGkKoVnY9Y%2BXYB54YV6A%3D&view_type=list&gz=1&t_ref_content=premium_recruit_fix&t_ref=jobcategory_recruit&t_ref_area=102#seq=0"
+    },
+    {
+      "name": "(주)알라딘커뮤니케이션",
+      "location": "서울 중구 서소문로 26",
+      "businessGroup": "전자상거래 소매업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38694909&recommend_ids=eJxdkEsSBCEIQ08ze%2FmEyHoO4v1vMZbTitVVbh6QELQemYYY9PjwaxcO%2FxcocAyELKQGTQYSL6xxtZyFeOHTp87Zfuk3nr7Md%2FU3bn8jgBOXjRG1rnDbNXdIXTe13Q8ilVa3oXVhVPZwrGwPTrVoWVljr38DTKwWeXSRigkzYZa2pfplxXRfqX4jdVgh&view_type=list&gz=1&t_ref_content=general&t_ref=jobcategory_recruit#seq=0"
+    },
+    {
+      "name": "현대오토에버(주)",
+      "location": "서울 강남구 테헤란로 510",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38670780&recommend_ids=eJxtj7ENQzEIRKdJb%2BDgTJ1BvP8WQcm3cRGJwo8HJ2yTGjRZnv7i2y5ceBr1npffeLxUXX7j44Pi8GrEDyeCuYjYVu0fnu2c0dtUmxjLQx5UHXEQmXCeME%2BO%2BspGaEV3lCMHrO%2Bim0QjXOSykaJ5EIBDO8pMmNcwWGc0SuY3%2BQOn8FBy&view_type=list&gz=1&t_ref_content=general&t_ref=jobcategory_recruit#seq=0"
+    },
+    {
+      "name": "(주)코그넥스코리아",
+      "location": "서울 서초구 서초대로38길 12, 6층",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/78968/%EC%A3%BC%EC%BD%94%EA%B7%B8%EB%84%A5%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84-Sr-Software-Engineer-%EA%B2%BD%EB%A0%A5%EC%A7%81-%EC%B1%84%EC%9A%A9"
+    },
+    {
+      "name": "에스케이실트론(주)",
+      "location": "경북 구미시 임수로 53",
+      "businessGroup": "다이오드, 트랜지스터 및 유사 반도체소자 제조업",
+      "recruitUrl": "https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet"
+    },
+    {
+      "name": "111퍼센트(주)",
+      "location": "서울 강남구 테헤란로 152, 33층",
+      "businessGroup": "모바일 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://111percent.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=48572"
+    },
+    {
+      "name": "밀리만코리아(주)",
+      "location": "서울 중구 세종대로 136, 22층",
+      "businessGroup": "기타 보험 및 연금관련 서비스업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/39688"
+    },
+    {
+      "name": "(주)에스케이씨엔씨",
+      "location": "서울 강남구 개포로 623, 809호",
+      "businessGroup": "기타 발전업",
+      "recruitUrl": "https://recruit.skcc.co.kr/ehr/servlet/com.skcc.ehr.empapp.servlet.EhrAgentServlet"
+    },
+    {
+      "name": "루나소프트",
+      "location": "대구 북구 동암로38길 9, 2층",
+      "businessGroup": "시스템ㆍ응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/12020"
+    },
+    {
+      "name": "(주)카카오게임즈",
+      "location": "경기 성남시 분당구 판교역로 152, 14층",
+      "businessGroup": "모바일 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34264497?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "워크브레인(주)",
+      "location": "서울 성동구 성수이로18길 31, 602호",
+      "businessGroup": "그 외 기타 달리 분류되지 않은 제품 제조업",
+      "recruitUrl": "https://www.notion.so/NET-9c1c2d29642344a7b39930f81b42238c"
+    },
+    {
+      "name": "롯데정보통신(주)",
+      "location": "서울 금천구 가산디지털2로 179",
+      "businessGroup": "컴퓨터 프로그래밍 서비스업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34531515?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)동원엔터프라이즈",
+      "location": "서울 서초구 마방로 68",
+      "businessGroup": "지주회사",
+      "recruitUrl": "https://recruit.dongwon.com/?page_id=7935&id=945289&announceId=945289&sDate=202105112100&eDate=202105311700"
+    },
+    {
+      "name": "넷마블(주)",
+      "location": "서울 구로구 디지털로26길 38",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34674564?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)브이엔티지",
+      "location": "서울 마포구 양화로 45, 6층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34835618?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "라스트오더(LastOrder)",
+      "location": "서울특별시 중구 다산로38길 33, 지하층 (신당동)",
+      "businessGroup": "전자상거래 소매 중개업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/98488/%EB%9D%BC%EC%8A%A4%ED%8A%B8%EC%98%A4%EB%8D%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90"
+    },
+    {
+      "name": "(주)누리플렉스",
+      "location": "서울 서초구 사평대로 16",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34832333?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "아레나캐스트(주)",
+      "location": "서울 강남구 영동대로 701, 11층",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/97812"
+    },
+    {
+      "name": "(주)그라비티",
+      "location": "서울 마포구 월드컵북로 396, 15층",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34977618?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)하나금융티아이",
+      "location": "인천 서구 에코로 167",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34930262?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "이지스엔터프라이즈(주)",
+      "location": "서울 금천구 가산디지털2로 98, 2동 714호",
+      "businessGroup": "그 외 기타 금융 지원 서비스업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/46655"
+    },
+    {
+      "name": "한국에스지에스(주)",
+      "location": "서울 용산구 한강대로 257",
+      "businessGroup": "물질성분 검사 및 분석업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35014416?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)버틀러",
+      "location": "경기 파주시 금빛로 44-1, 604호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35133137?Oem_Code=C1&sc=7"
+    },
+    {
+      "name": "(주)신세계아이앤씨",
+      "location": "서울 중구 남대문시장10길 2, 21층",
+      "businessGroup": "컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "recruitUrl": "http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5793"
+    },
+    {
+      "name": "에이피티씨(주)",
+      "location": "경기 이천시 마장면 서이천로 58-47",
+      "businessGroup": "반도체 제조용 기계 제조업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/3910"
+    },
+    {
+      "name": "(주)틸론",
+      "location": "서울 강서구 마곡중앙14로 22",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/2890"
+    },
+    {
+      "name": "하나머티리얼즈(주)",
+      "location": "충남 천안시 서북구 3공단3로 42",
+      "businessGroup": "발광 다이오드 제조업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35537941?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)드림시스",
+      "location": "서울 서초구 바우뫼로 147, 3,4층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/6903"
+    },
+    {
+      "name": "(주)악어디지털",
+      "location": "경기 용인시 기흥구 구성로 357, 에이동 1001-1016호",
+      "businessGroup": "자료 처리업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/106239/%EA%B8%B0%EC%88%A0%EA%B0%9C%EB%B0%9C%EC%9C%88%EB%8F%84%EC%9A%B0%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B0%9C%EB%B0%9C"
+    },
+    {
+      "name": "(주)세피스",
+      "location": "서울 금천구 가산디지털2로 108, 1005호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41040952&recommend_ids=eJxNz8kNA1EIA9Bqcmcz4HMKmf67CMrkDzk%2BWbIhVKJK4mqVV71DheWFq403kXQeCtnUGurNcoYsB9VT9WNm%2BqSaN82s9HB2TRBPWkhL7BBCGlullnKanVVE619Kgzxs%2BrQeqqRpYskp9%2FPvqL193weQuUdi2r5DH1T5QBI%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "(주)아이디스",
+      "location": "대전 유성구 테크노3로 8-10",
+      "businessGroup": "방송장비 제조업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35874150?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "포에버21",
+      "location": "부산 부산진구 중앙대로 694, 본관 1층 28호",
+      "businessGroup": "의복 액세서리 및 모조 장신구 소매업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35967335?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)캐치잇플레이",
+      "location": "제주 제주시 중앙로 217, 708호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/101063/%EB%B3%91%EC%97%AD%ED%8A%B9%EB%A1%80%EC%BA%90%EC%B9%98%EC%9E%87%ED%94%8C%EB%A0%88%EC%9D%B4%EC%84%9C%EB%B2%84%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90-%EB%B3%B4%EC%B6%A9%EC%97%AD%ED%98%84%EC%97%AD-%EC%9D%B4%EC%A7%81-%EA%B7%BC%EB%AC%B4%EA%B0%80%EB%8A%A5"
+    },
+    {
+      "name": "한화테크윈(주)",
+      "location": "경기 성남시 분당구 판교로319번길 6",
+      "businessGroup": "방송장비 제조업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/8115"
+    },
+    {
+      "name": "(주)페이크럭스",
+      "location": "서울 강남구 강남대로 464, 7층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/110390/windows-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4"
+    },
+    {
+      "name": "지머니트랜스(주)",
+      "location": "서울 중구 장충단로 247, 1501-2",
+      "businessGroup": "그 외 기타 금융 지원 서비스업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41526242&recommend_ids=eJxNj7sVwzAMxKZJfzz%2B6wzi%2FbeI7BeL6ojmQBhSOrquYn%2FyayJmpbhK5EHrDOhGB9DcSELNX4QHwH6n7uWk%2FlE7BaojWp6yLYIBrjEiRYjPG0atHiTScxBQ8Ph5XbPcAfoksMLPKVneo9czjkBZgfHgDxJ7P6I%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "펍지(주)",
+      "location": "서울 서초구 서초대로38길 12, 6층, 7층, 8층, 13층",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/12800"
+    },
+    {
+      "name": "(주)뤼이드",
+      "location": "서울 강남구 테헤란로 521, 10층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/32724"
+    },
+    {
+      "name": "(주)체커",
+      "location": "서울 강서구 마곡중앙6로 21, 917호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.querypie.com/recruit/dotnet"
+    },
+    {
+      "name": "(주)프렌즈게임즈",
+      "location": "경기 성남시 분당구 판교로256번길 19, 3층",
+      "businessGroup": "기타 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://kakaogames.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=19396"
+    },
+    {
+      "name": "(주)컴투스",
+      "location": "서울 금천구 가산디지털1로 131, A동",
+      "businessGroup": "모바일 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://com2us.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=43879"
+    },
+    {
+      "name": "데브시스터즈(주)",
+      "location": "서울 강남구 도산대로 327",
+      "businessGroup": "모바일 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://careers.devsisters.com/position/detail/?jobPosition=129"
+    },
+    {
+      "name": "(주)투스라이프",
+      "location": "경기 성남시 분당구 백현로 93, 11층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34799251?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)케이티샛",
+      "location": "서울 강남구 테헤란로 422, 14층",
+      "businessGroup": "무선 및 위성 통신업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34816989?Oem_Code=C1&PageGbn=ST"
+    },
+    {
+      "name": "(주)블루비커",
+      "location": "서울 중구 한강대로 416, 13층 24호-63,67",
+      "businessGroup": "일반 영화 및 비디오물 제작업",
+      "recruitUrl": "https://www.linkedin.com/jobs/view/2553823801/?refId=PYJs5Kfs8DejVyMifGUJJA%3D%3D&trackingId=Aa25%2F5t1aGNSs5cqm2xFHA%3D%3D"
+    },
+    {
+      "name": "이베이코리아유한책임회사",
+      "location": "서울 강남구 테헤란로 152, 19층, 34층 내지 37층",
+      "businessGroup": "전자상거래 소매 중개업",
+      "recruitUrl": "https://www.linkedin.com/jobs/view/2673970996/?alternateChannel=search&refId=ogYMUY1gej%2B8CxLgEYv0kw%3D%3D&trackingId=ebSVN%2BN8FyESI1%2B9HHHHXg%3D%3D"
+    },
+    {
+      "name": "(주)크래프톤",
+      "location": "서울 강남구 테헤란로 231",
+      "businessGroup": "게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://boards.greenhouse.io/pubgcorporation/jobs/5527602002?gh_src=3c541eb92us"
+    },
+    {
+      "name": "(주)비멕스",
+      "location": "부산 금정구 수림로71번길 35, 1동 3층",
+      "businessGroup": "컴퓨터 프로그래밍 서비스업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/107501/SW-RD-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4"
+    },
+    {
+      "name": "(주)뉴엔네트웍스",
+      "location": "서울 성동구 연무장5가길 25, 1206호",
+      "businessGroup": "통신ㆍ방송장비 및 부품 도매업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/54874"
+    },
+    {
+      "name": "(주)펄어비스",
+      "location": "경기 안양시 동안구 시민대로327번길 24",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "http://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=169630"
+    },
+    {
+      "name": "(주)로봇앤드디자인",
+      "location": "경기 성남시 분당구 판교로 700, E동 801호",
+      "businessGroup": "산업용 로봇 제조업",
+      "recruitUrl": "http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=38208352&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "(주)플레이스5",
+      "location": "서울 강남구 테헤란로 129, 8층 813호",
+      "businessGroup": "컴퓨터 프로그래밍 서비스업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/37864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "(주)진학사",
+      "location": "서울 종로구 경희궁길 34",
+      "businessGroup": "데이터베이스 및 온라인정보 제공업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/42979?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "인크루트(주) ",
+      "location": "서울 중구 중림로 49",
+      "businessGroup": "데이터베이스 및 온라인정보 제공업",
+      "recruitUrl": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2009010000227"
+    },
+    {
+      "name": "(주)파이랩",
+      "location": "서울 영등포구 문래북로 116, 8층 802호",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/59052/Backend-%EA%B0%9C%EB%B0%9C%EC%9E%90"
+    },
+    {
+      "name": "(주)퀄리소프트",
+      "location": "서울 영등포구 선유로3길 10, 9층 906호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/57660"
+    },
+    {
+      "name": "(주)투비콘",
+      "location": "서울 영등포구 의사당대로 83, 서울핀테크랩",
+      "businessGroup": "컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "recruitUrl": ""
+    },
+    {
+      "name": "잡코리아유한책임회사",
+      "location": "서울 서초구 서초대로 301, 16층, 17층, 18층",
+      "businessGroup": "데이터베이스 및 온라인정보 제공업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34333542?Oem_Code=C1"
+    },
+    {
+      "name": "예스이십사(주)",
+      "location": "서울 영등포구 은행로 11, 5층,6층",
+      "businessGroup": "전자상거래 소매 중개업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34255441?Oem_Code=C1"
+    },
+    {
+      "name": "(주)네오위즈",
+      "location": "경기 성남시 분당구 대왕판교로645번길 14",
+      "businessGroup": "기타 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34253703?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)케이지이니시스",
+      "location": "서울 중구 통일로 92, 14층, 15층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34229459?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)더즌",
+      "location": "서울 서초구 강남대로 465, B동 16층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/47981"
+    },
+    {
+      "name": "(주)인피니트헬스케어",
+      "location": "서울 구로구 디지털로34길 27, 12층",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.infinitt.com/about-us/career.php?ctr=a_kor#job-description"
+    },
+    {
+      "name": "(주)액토즈소프트",
+      "location": "서울 강남구 테헤란로44길 8, 지하1층,11-15층",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Search/?stext=.net&cotype=1%2C4&jobtype=1"
+    },
+    {
+      "name": "넥슨지티(주)",
+      "location": "경기 성남시 분당구 판교로256번길 25, 씨3-7",
+      "businessGroup": "모바일 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34589781?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "오엠티아이코리아(주)",
+      "location": "서울 서초구 서초대로27길 54, 1층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/61820"
+    },
+    {
+      "name": "(주)미디어윌네트웍스",
+      "location": "서울 강남구 테헤란로 322, 동관 20층",
+      "businessGroup": "데이터베이스 및 온라인정보 제공업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/61480"
+    },
+    {
+      "name": "세이지리서치(주)",
+      "location": "서울 서초구 서초대로40길 49, 2,5층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/92854/Application-Engineer-Tech-Lead"
+    },
+    {
+      "name": "(주)비알스톰",
+      "location": "서울 송파구 삼전로7길 15, 3층",
+      "businessGroup": "전자상거래 소매업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/97190"
+    },
+    {
+      "name": "(주)네오정보시스템",
+      "location": "경기 성남시 중원구 둔촌대로 449, 609호, 비105호",
+      "businessGroup": "유선 통신장비 제조업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/59842"
+    },
+    {
+      "name": "(주)쿼터백그룹",
+      "location": "서울 영등포구 여의대로 108, 타워1 26층",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/92325"
+    },
+    {
+      "name": "(주)교원에듀",
+      "location": "서울 중구 을지로 51",
+      "businessGroup": "서적, 신문 및 잡지류 소매업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34754353?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)로지올",
+      "location": "서울 서초구 동산로 52, 4층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/62986"
+    },
+    {
+      "name": "굿어스(주)",
+      "location": "서울 강남구 선릉로 514",
+      "businessGroup": "컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34851005?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)웅진컴퍼스",
+      "location": "서울 서초구 강남대로39길 15-10, 301호",
+      "businessGroup": "일반 서적 출판업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34942879?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "메가엠디(주)",
+      "location": "서울 서초구 반포대로 81, 4층",
+      "businessGroup": "온라인 교육 학원",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34941308?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)증권통",
+      "location": "서울 마포구 양화진4길 32",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/100239/Server-%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EB%A0%A515%EB%85%84-%EC%B1%84%EC%9A%A9"
+    },
+    {
+      "name": "(주)휴넷",
+      "location": "서울 구로구 디지털로26길 5, 818호",
+      "businessGroup": "온라인 교육 학원",
+      "recruitUrl": "https://www.wanted.co.kr/wd/8008"
+    },
+    {
+      "name": "아나토마지코리아(주)",
+      "location": "서울 강남구 테헤란로84길 15, 4층,10층",
+      "businessGroup": "컴퓨터 및 주변장치, 소프트웨어 도매",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35130270?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)김집사",
+      "location": "서울 송파구 충민로 52, 에이동 716호 외",
+      "businessGroup": "택배업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/62990"
+    },
+    {
+      "name": "(주)모빈스",
+      "location": "서울 구로구 디지털로32가길 18, 3층",
+      "businessGroup": "손해 사정업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35051753?Oem_Code=C1&sc=7"
+    },
+    {
+      "name": "(주)엔씨소프트",
+      "location": "서울 강남구 테헤란로 509",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35118771?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "이베이재팬(유)",
+      "location": "서울 강남구 테헤란로 142, 14층",
+      "businessGroup": "컴퓨터 프로그래밍 서비스업",
+      "recruitUrl": "https://job.incruit.com/entry/jobpost.asp?job=2010140002935"
+    },
+    {
+      "name": "(주)한화",
+      "location": "서울 중구 청계천로 86",
+      "businessGroup": "화약 및 불꽃제품 제조업",
+      "recruitUrl": "https://www.hanwhain.com/web/apply/notification/view.do?rtSeq=5727"
+    },
+    {
+      "name": "(주)현대아이티앤이",
+      "location": "서울 강남구 테헤란로98길 12, 6층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35560685?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)비즈니스온커뮤니케이션",
+      "location": "서울 강남구 학동로 230, 5층 6층 7층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/73785"
+    },
+    {
+      "name": "(주)천재교과서",
+      "location": "서울 금천구 가산디지털1로 16, 2011호",
+      "businessGroup": "교과서 및 학습서적 출판업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35599611?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "이데일리(주)",
+      "location": "서울 중구 통일로 92, 18, 19층",
+      "businessGroup": "데이터베이스 및 온라인정보 제공업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35606921?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)스룩",
+      "location": "서울 중구 통일로 92",
+      "businessGroup": "컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35639777?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)에스티유니타스",
+      "location": "서울 강남구 영동대로 417, 3층",
+      "businessGroup": "기타 교육지원 서비스업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35630129?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)로지스랩",
+      "location": "서울 강남구 남부순환로 2621, 1305호, 1306호, 1307호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40922271&recommend_ids=eJxdjzsOA0EIQ0%2BTno8BU%2B9B9v63yEQbDaMtKJ5AzxgCGhk3NT91QYg1vbFYQC2UB1M7faH%2BtyhybyOt3Bb2C288bnPNGFmX6%2BG2Fs2dHOEqPu7yTD8egdmoqIjjuAQq3Kp0aehUzPWFT8Wogk0ujF67ItEMGWxCf2b9AsRZQ9A%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "디포커스(주)",
+      "location": "서울 성동구 성수이로 51, 304호",
+      "businessGroup": "경영 컨설팅업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40893273&recommend_ids=eJxNjskRA0EIA6Pxnxvp7UA2%2FyyMd12Dq%2BbT0wIU0hHwvKB89Tv%2B8Ir5cKISXhfs8QmIcbw88SJvrMeW0XqtqUrvbBqiTridEX7s4n05BCnNPnHv9NZTtHKenVMJE59p1V8RSPUifNYdxPSUtVSm1tqK7g0ntbjh4gzY32ZL4osfw6VH5w%3D%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "(주)무노스",
+      "location": "서울 중구 소월로 10, 18",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40624328&recommend_ids=eJxNj8kNAzEMA6vJX9RBSu8Ukv67iDcb2Av4M5ixDaaJjYxPgy%2B908YjWp92%2FLBlTm3bEMgTw2m98I5FDM9TGUGs2Oe%2BW4mcZe3%2FEbJw7KQmDlrVaMd9ndpYVkwca736jcxx84clcGIpuh6LQizfqOWcj73mdQ20L0T%2BQAc%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "(주)미래엔",
+      "location": "서울 서초구 신반포로 321",
+      "businessGroup": "교과서 및 학습서적 출판업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35656964?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "아움컴퍼니",
+      "location": "서울 강남구 테헤란로 146, 13층 1303-3호",
+      "businessGroup": "전자상거래 소매 중개업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/105394/%E2%AD%90%EF%B8%8F%EC%9B%B9-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8B%98%EC%9D%84-%EB%AA%A8%EC%8B%AD%EB%8B%88%EB%8B%A4C-ASPNET%E2%AD%90%EF%B8%8F"
+    },
+    {
+      "name": "(주)미래로시스템",
+      "location": "경기 용인시 기흥구 흥덕중앙로 120, 203호,204호,2905호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40843413&recommend_ids=eJxNjskRw0AIBKPxf7gGeDsQ5Z%2BF11IV6NnVy2w73NihV0l%2F8utAITyu0ge1tSGDERrswerKPFZwI8UU%2Fyk%2BNmARY7NAq7FulZ7zb8rpWFsi4jbIFuFOVerJ2mVPo%2B9tZ%2BvrFnIq97FF8hVpp3qXaXD1weCJvKd%2BS3VAEw%3D%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_scnid=811&t_ref_content=SRI_050_SCH_CVS_RCT_AVA_NONMEM&t_ref=search&inner_source=saramin&inner_medium=pattern&inner_campaign=SRI_050_SCH_CVS_RCT_AVA_NONMEM&inner_term=3&paid_fl=n#seq=0"
+    },
+    {
+      "name": "(주)유비케어",
+      "location": "서울 영등포구 여의대로 108, 30층,31층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/75819"
+    },
+    {
+      "name": "페이레터(주)",
+      "location": "서울 강남구 역삼로 223",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40415706&recommend_ids=eJxFj7kNA0EMA6txLlIfFbuQ678LL86ANhwMqScsgyk%2B4nz6G9ZTcjyCvZhlxlk7gNGPxYtekxlrFR7w7WrUjQ3Tg9CGz1553704w45F%2Fa2Q44vdFGJHlU53riWnclHlqRuWLCfuVV7wGx6wrC%2FyMG93%2BD6I%2BgFHm0Ag&view_type=search&searchword=C%23&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "콘텐츠웨이브(주)",
+      "location": "서울 영등포구 여의나루로 60, 19층",
+      "businessGroup": "영화, 비디오물 및 방송프로그램 배급업",
+      "recruitUrl": "https://career.greetinghr.com/o/MzQ3Ng.-9RsZl1VoNl2ycZHOapySa3YmDc"
+    },
+    {
+      "name": "(주)스킨알엑스",
+      "location": "서울 용산구 한남대로 142, 4층",
+      "businessGroup": "화장품 및 화장용품 도매업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41006357&recommend_ids=eJxNkMkRA0EIA6PxX9zwdiCbfxZmL%2FBTpUbVMwpzgOtIrk98FVWKyCMJd3R3QUe6IjPBYmBTTplI0AjowJKiJLvMzEHd%2BgNz378RYWh64I2H3tfZ2%2FFunxYusprEjrHu1sz9D0YWjVdJBeW2yQFer3NLxquQ%2FY5t0afXf%2FwAmJxDnA%3D%3D&view_type=list&gz=1&t_ref_content=ing_recruit&t_ref=company_info_view#seq=0"
+    },
+    {
+      "name": "(주)코밴",
+      "location": "서울 강남구 도곡로6길 10",
+      "businessGroup": "그 외 기타 전기 통신업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41013293&recommend_ids=eJxtkLkVA0EIQ6txLm6IXcj234XZWc%2FgwBkfCdBDISlKciXXK95K0AjolYQbwaJMuVWUuwuOWswcNFiKaDP5QnOA68yGoS%2F9wUtXQyud9OiDX72IHbM9S7rc2LkZNrnL2mGDVGx3bnrM1QbZ2JT9hW0mmJn7D%2FYtmlkLFxlEUK7NH1y%2BR24%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "(주)아트웍스코리아",
+      "location": "서울 동대문구 청계천로 539",
+      "businessGroup": "전자상거래 소매 중개",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35925923?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)미디어토마토",
+      "location": "서울 마포구 양화진4길 32",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41056382&recommend_ids=eJxNjcsVAzEMAqvJXaCP0TmFbP9dxNnE9h55DEwYPQhdYr%2FGOyzLjL0irNTll1Azenemj7Fhlwf8wCGwJmx3q3YOXxEG2VcE%2FETB7Dpbpdf4i%2BZ2GAsb7qpye1zBRxw41NT2dsxTbhhQPeAuY%2Fp6BqgoWy0QysgjMjLu7Qc%2Fkz%2Fu&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "(주)틸코블렛",
+      "location": "서울 중구 다동길 5, 1502호",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/101292/%EC%9D%91%EC%9A%A9-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91"
+    },
+    {
+      "name": "엔에이치엔(주)",
+      "location": "경기 성남시 분당구 대왕판교로645번길 16",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/80157"
+    },
+    {
+      "name": "(주)이테시스",
+      "location": "서울 서초구 방배천로2길 15, 5층",
+      "businessGroup": "온라인 교육 학원",
+      "recruitUrl": "https://www.wanted.co.kr/wd/80435"
+    },
+    {
+      "name": "로지포커스(주)",
+      "location": "서울 성동구 마장로 327-1",
+      "businessGroup": "일반 창고업",
+      "recruitUrl": "https://m.jobkorea.co.kr/Recruit/GI_Read/36101816"
+    },
+    {
+      "name": "(주)더플랜지",
+      "location": "경기 성남시 수정구 대왕판교로 815, 판교창조경제밸리",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/106510/%EA%B0%9C%EB%B0%9C%EC%9E%90"
+    },
+    {
+      "name": "(주)핸디소프트",
+      "location": "경기 안양시 동안구 부림로170번길 41-22, 4층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41576275&recommend_ids=eJxNjrsNw1AMA6dJL1LUr84g3n%2BLJA7w5PJwlEjBA2F5NfCqt%2BAydl3NuVG0ijo2cjBxbJgPf%2Fi3LHP5CUPeNXvrUuR%2BdmbGsfIJYmd4ox%2BrJty5r6KhXjSk8tn7TT8sMTrIHNqukpXl3hJl1Y%2Fe6r7xAxs6P8w%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "(주)슈가힐",
+      "location": "서울 강남구 강남대로 408, 11층 1101호",
+      "businessGroup": "그 외 기타 정보 서비스업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/86364/%EC%8A%88%EA%B0%80%ED%9E%90%EB%84%A4%EB%AA%A8-%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%9E%90-Server-Developer"
+    },
+    {
+      "name": "(주)스마일게이트엔터테인먼트",
+      "location": "경기 성남시 분당구 판교역로 220, 5층",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34328154?Oem_Code=C1&PageGbn=ST"
+    },
+    {
+      "name": "(주)유니크굿컴퍼니",
+      "location": "서울 성동구 성수일로 89, 501호 외",
+      "businessGroup": "경영 컨설팅 및 공공 관계 서비스업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/39992"
+    },
+    {
+      "name": "(주)도너스",
+      "location": "서울 강남구 도산대로 134, 12층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/6322"
+    },
+    {
+      "name": "(주)케이티디에스",
+      "location": "서울 서초구 효령로 176, 8층",
+      "businessGroup": "컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34654150?Oem_Code=C1"
+    },
+    {
+      "name": "(주)랭코드",
+      "location": "서울 서초구 반포대로28길 94, 409호",
+      "businessGroup": "컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/96778/C-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9-ASPNET-Core-Blazor"
+    },
+    {
+      "name": "(주)키미디어",
+      "location": "서울 강서구 마곡중앙5로1길 20, 407호",
+      "businessGroup": "뉴스 제공업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34778414?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)스파이더크래프트",
+      "location": "서울 강남구 논현로131길 20",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/69534"
+    },
+    {
+      "name": "브랜디드라이프스타일코리아(주)",
+      "location": "서울 금천구 벚꽃로 244, 5층",
+      "businessGroup": "남녀용 겉옷 및 셔츠 도매업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35400334?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)소셜인베스팅랩 ",
+      "location": "대전 유성구 대학로 179, 304호",
+      "businessGroup": "포털 및 기타 인터넷 정보매개 서비스업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/102839/%EB%B0%B1%EC%97%94%EB%93%9C-API-%EA%B0%9C%EB%B0%9C%EC%9E%90"
+    },
+    {
+      "name": "(주)녹십자헬스케어",
+      "location": "서울 영등포구 여의대로 108, 2동 32층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/6089"
+    },
+    {
+      "name": "트리노드(주)",
+      "location": "부산 해운대구 센텀2로 25, 503호, 701호, 802호, 803호, 1302호, 15층",
+      "businessGroup": "모바일 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=40782239"
+    },
+    {
+      "name": "(주)트렌비",
+      "location": "서울 서초구 서초대로77길 41, 10층, 11층",
+      "businessGroup": "그 외 기타 분류 안된 사업지원 서비스업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/22153"
+    },
+    {
+      "name": "(주)넥슨코리아",
+      "location": "경기 성남시 분당구 판교로256번길 7",
+      "businessGroup": "유선 온라인 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20190068"
+    },
+    {
+      "name": "(주)모빌",
+      "location": "서울 서초구 강남대로 341, 8층 831호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/40037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "(주)펫닥",
+      "location": "서울 서초구 강남대로79길 32, 3층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/35824?referer_id=20&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "(주)자이닉스",
+      "location": "서울 구로구 디지털로31길 53, 1101호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/1218?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "(주)세나클소프트",
+      "location": "서울 강남구 테헤란로44길 8, 6층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/76338/Windows-ClientC-WPF-%EA%B0%9C%EB%B0%9C%EC%9E%90?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "(주)유라이크코리아",
+      "location": "서울 송파구 법원로9길 26, D동 1202-1206호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/77178/NET-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5"
+    },
+    {
+      "name": "(주)카카오엔터프라이즈",
+      "location": "경기 성남시 분당구 판교역로 235, 3층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobplanet.co.kr/companies/353508/job_postings/1164495/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC-windows-%EA%B0%9C%EB%B0%9C%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88"
+    },
+    {
+      "name": "(주)메쉬코리아",
+      "location": "서울 강남구 테헤란로 418, 11,12,13층",
+      "businessGroup": "기타 통신 판매업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/43043?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "(주)코보시스",
+      "location": "서울 송파구 법원로11길 11, 제9층 제에이 901호, 902호, 903호, 904호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/46155?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "포디리플레이코리아(주)",
+      "location": "서울 강남구 광평로 280, 10층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/company/1485"
+    },
+    {
+      "name": "(주)오비이랩",
+      "location": "서울 강남구 테헤란로 312, 12층",
+      "businessGroup": "그 외 기타 의료용 기기 제조업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/57567"
+    },
+    {
+      "name": "(주)클라모스",
+      "location": "서울 구로구 디지털로 242, 제7층 제708호,제709호",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/56850"
+    },
+    {
+      "name": "(주)네오젠소프트",
+      "location": "경기 성남시 분당구 대왕판교로 670, 907-2호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/61262"
+    },
+    {
+      "name": "(주)덴트웹",
+      "location": "서울 서초구 동작대로 186",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/95273/C-WPF-%EA%B2%BD%EB%A0%A5%EC%A7%81-%EC%B1%84%EC%9A%A9"
+    },
+    {
+      "name": "(주)코오롱",
+      "location": "경기 과천시 코오롱로 11",
+      "businessGroup": "지주회사",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34746168?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "한미반도체(주)",
+      "location": "인천 서구 가좌로12번길 15",
+      "businessGroup": "반도체 제조용 기계 제조업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/34706477?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "콩테크(주)",
+      "location": "경기 성남시 분당구 대왕판교로 660, B동 1203호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/63237"
+    },
+    {
+      "name": "(주)비브로스",
+      "location": "서울 영등포구 여의대로 108, 31층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/64780"
+    },
+    {
+      "name": "(주)마인즈랩",
+      "location": "대전 유성구 대덕대로 593, 9층 901-2호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35140593?Oem_Code=C1&sc=7"
+    },
+    {
+      "name": "(주)에이디티캡스",
+      "location": "서울 강남구 봉은사로 613",
+      "businessGroup": "경비 및 경호 서비스업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35204925?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "펜타큐브(주)",
+      "location": "경기 성남시 분당구 황새울로258번길 23, 203호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/94397/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9A%A9-C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%8B%A0%EC%9E%85%EA%B2%BD%EB%A0%A5-SW-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4"
+    },
+    {
+      "name": "(주)파수",
+      "location": "서울 마포구 월드컵북로 396, 17층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/63339"
+    },
+    {
+      "name": "유한책임회사딜리버리히어로코리아",
+      "location": "서울 서초구 서초대로38길 12, 17층",
+      "businessGroup": "상품 종합 중개업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35277906?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)만나플래닛",
+      "location": "서울 구로구 경인로 661, 101동 1401호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/70593"
+    },
+    {
+      "name": "(주)셀버스 ",
+      "location": "서울 마포구 백범로31길 21, 별관 303호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/66700"
+    },
+    {
+      "name": "(주)웨이센",
+      "location": "서울 강남구 영동대로75길 9, 4층 401호",
+      "businessGroup": "컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/72303"
+    },
+    {
+      "name": "(주)가비아씨엔에스",
+      "location": "경기 성남시 분당구 대왕판교로 670, 에이동 403호,404호 비동 312호,322호,323호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/2669"
+    },
+    {
+      "name": "홈플러스(주)",
+      "location": "서울 강서구 화곡로 398",
+      "businessGroup": "대형 마트",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35519496?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)스프링소프트",
+      "location": "경기 성남시 분당구 황새울로200번길 9-7, 1511호",
+      "businessGroup": "컴퓨터 프로그래밍 서비스업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/6594"
+    },
+    {
+      "name": "퀘스트글로벌코리아(유)",
+      "location": "서울 강남구 테헤란로86길 14, 5층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35551111?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "한미헬스케어(주)",
+      "location": "경기 평택시 산단로 106",
+      "businessGroup": "기타 비알코올 음료 제조업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35537181?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)한컴위드",
+      "location": "경기 성남시 분당구 대왕판교로644번길 49, 5층, 9층",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/74244"
+    },
+    {
+      "name": "(주)파이디지털헬스케어",
+      "location": "서울 서대문구 성산로 543, 2층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/company-info/view?csn=MjFmMmp4Sk5XQjJxdTlMNS9NSThPQT09"
+    },
+    {
+      "name": "(주)넥스트케이",
+      "location": "경기 용인시 기흥구 서천로201번길 11, 7층 티-725호",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/61027"
+    },
+    {
+      "name": "한국정보통신(주)",
+      "location": "서울 중구 세종대로 39, 7층",
+      "businessGroup": "그 외 기타 전기 통신업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41008549&recommend_ids=eJxFj8sRw1AIA6vJXeLPOYWk%2Fy6CPTbvuKwGgaG7BP0r6U9%2BDT6k%2BivixvYJ%2BFjemEYLGRsXEh7utTYMCH8tyilhi10VnVuUMwiccKMj315CHMoNT0qxFrPIiYOT9dObIWox%2BFzV5H3V8wKEUsdmZ3FXpZVari1Xw%2FUv%2F0iRQAA%3D&view_type=search&searchword=wpf&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "지아이티(주)",
+      "location": "서울 송파구 마천로 87",
+      "businessGroup": "물질 검사, 측정 및 분석기구 제조업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/35829908?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "에이에스엠케이(주)",
+      "location": "경기 화성시 동탄첨단산업1로 63-11",
+      "businessGroup": "반도체 제조용 기계 제조업",
+      "recruitUrl": "https://www.peoplenjob.com/jobs/4566963"
+    },
+    {
+      "name": "(주)플러그링크",
+      "location": "서울 강남구 테헤란로5길 7, 10층",
+      "businessGroup": "기타 발전업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/104535/%EB%B0%B1%EC%95%A4%EB%93%9C-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C"
+    },
+    {
+      "name": "(주)휴라",
+      "location": "대전 유성구 반석로 10, 501호, 506호",
+      "businessGroup": "기타 표시장치 제조업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/7665"
+    },
+    {
+      "name": "(주)데이터온",
+      "location": "서울 중구 동호로15길 31, B동 5층",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/65980?utm_source=email&utm_medium=braze_mkt&utm_campaign=recruit_recommend_position&utm_content=company_more_new_2"
+    },
+    {
+      "name": "(주)난소프트",
+      "location": "서울 금천구 가산디지털1로 19, 1801호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/76398/C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9"
+    },
+    {
+      "name": "(주)비욘드아이앤씨",
+      "location": "서울 성동구 자동차시장1길 49, 7층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/3560"
+    },
+    {
+      "name": "(주)에듀윌",
+      "location": "서울 구로구 디지털로34길 55, 310호",
+      "businessGroup": "온라인 교육 학원",
+      "recruitUrl": "https://recruit.eduwill.net/apply/noti/notiInfo?noti_idx=820"
+    },
+    {
+      "name": "가온미디어(주)",
+      "location": "경기 성남시 분당구 성남대로 884-3",
+      "businessGroup": "방송장비 제조업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41109031&recommend_ids=eJxNjrkRxDAMA6txDv5EfIW4%2Fy4sa06Swx0sATo0LbvuVl71c0i2KxaKOj3zbpGJQiV7IJYcrlsWrUzslBJMX7dAIzyOzGZgN6vDxM5QB%2BPdzYkoZMtGHV9P%2BZ9GWPvanciPXCM8VWPIkVvW4Cg7t9Ud8knNNN6vHjWsP9Q%3D&view_type=mail_landing&gz=1&utm_source=job-search-api&utm_campaign=saramin-job-search-api&utm_medium=api#seq=0"
+    },
+    {
+      "name": "(주)얼그레잇",
+      "location": "경기 성남시 분당구 판교로289번길 20, 2동 3층",
+      "businessGroup": "그 외 기타 개인 및 가정용품 임대업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/109543/%ED%9A%8C%EC%88%98-%EC%A0%91%EC%88%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90"
+    },
+    {
+      "name": "(주)미니소프트",
+      "location": "서울 강남구 논현로 710, 4층 402호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/7131?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+    },
+    {
+      "name": "(주)스냅스",
+      "location": "서울 영등포구 여의대로 24, 21층",
+      "businessGroup": "경 인쇄업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/7914"
+    },
+    {
+      "name": "(주)티몬",
+      "location": "서울 강남구 테헤란로114길 38, 1층, 2층",
+      "businessGroup": "전자상거래 소매 중개업",
+      "recruitUrl": "http://www.saramin.co.kr/zf_user/jobs/view?rec_idx=36828692"
+    },
+    {
+      "name": "(주)드림포라",
+      "location": "서울 서대문구 연세로 50",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/93092/%ED%8C%80%EC%9E%A5%EA%B8%89-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9E%90"
+    },
+    {
+      "name": "망고슬래브(주)",
+      "location": "경기 성남시 수정구 대왕판교로 815, 4층 432호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/61389"
+    },
+    {
+      "name": "에드워드코리아(주)",
+      "location": "충남 천안시 서북구 3공단1로 96",
+      "businessGroup": "그 외 기타 전자부품 제조업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/36839467?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)엔지온시스템",
+      "location": "경기 화성시 삼성1로4길 29",
+      "businessGroup": "디스플레이 제조용 기계 제조업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40552569&recommend_ids=eJxNjrkRA0EMw6pxvnpJxi7k%2Bu%2FC983KIYbQCGlol%2BqgrQ%2B%2BaRQBO%2Bh6sBCMc7UbCws2KFeGRg6TbK%2FA8mt9kbVSl%2FxiZtHnViSx5W6Qmqq87FlZRO61eq2eR6Uzuicj2JkbUyGfW5RX1chi6a854HlX%2FQCCDkBw&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "(주)아이텀게임즈",
+      "location": "서울 서초구 서초대로 396, 2층 스파크플러스 202호",
+      "businessGroup": "기타 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/115410/Windows-Engineer-NET"
+    },
+    {
+      "name": "(주)삼표",
+      "location": "서울 종로구 종로1길 42, 15층",
+      "businessGroup": "지주회사",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/37032297?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)룩옵틱스",
+      "location": "서울 강남구 봉은사로44길 62",
+      "businessGroup": "안경, 사진장비 및 광학용품 도매업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/37108605?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)아이디에스앤트러스트",
+      "location": "서울 강남구 봉은사로 644, 3층",
+      "businessGroup": "컴퓨터 제조업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/9089"
+    },
+    {
+      "name": "(주)클로버추얼패션",
+      "location": "서울 강남구 도산대로8길 17-4",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/61612"
+    },
+    {
+      "name": "미스터블루(주)",
+      "location": "서울 마포구 월드컵북로6길 18",
+      "businessGroup": "데이터베이스 및 온라인정보 제공업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/8971"
+    },
+    {
+      "name": "(주)해긴",
+      "location": "서울 금천구 가산디지털1로 168, C동 14층 1407호",
+      "businessGroup": "모바일 게임 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/9016"
+    },
+    {
+      "name": "(주)바른컴퍼니",
+      "location": "경기 파주시 회동길 219",
+      "businessGroup": "기타 인쇄물 출판업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/84749"
+    },
+    {
+      "name": "(주)애드크림",
+      "location": "서울 강남구 도산대로12길 25, 3층 1호",
+      "businessGroup": "데이터베이스 및 온라인정보 제공업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/90740"
+    },
+    {
+      "name": "(주)이랜드이노플",
+      "location": "서울 금천구 가산디지털1로 88, 4층",
+      "businessGroup": "컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/37051563?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)이퍼블릭코리아",
+      "location": "서울 양천구 목동서로 211",
+      "businessGroup": "서적, 잡지 및 기타 인쇄물 도매업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/37051563?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)인포바인",
+      "location": "서울 영등포구 여의대로 24, 40층",
+      "businessGroup": "그 외 기타 전기 통신업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/36953252?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)와이드모바일 ",
+      "location": "서울 서대문구 통일로 135, 6층",
+      "businessGroup": "통신 재판매업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/37124581?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)하이앤디 ",
+      "location": "서울 강남구 언주로 315",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/112119/%ED%83%80%EC%9E%84%EC%98%A4%EB%8D%94-POS-KIOSKC-WPF-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%A7%91"
+    },
+    {
+      "name": "(주)제이스퓨처",
+      "location": "서울 구로구 디지털로26길 111, 708호 709호 710호",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/8841"
+    },
+    {
+      "name": "휴카시스템(주)",
+      "location": "대구 동구 동내로 70, 506호",
+      "businessGroup": "기타 공학 연구개발업",
+      "recruitUrl": "https://www.rocketpunch.com/jobs/115626/%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B8%B0-SW-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%AA%A8%EC%A7%91"
+    },
+    {
+      "name": "(주)트리플나인홀딩스",
+      "location": "서울 강남구 언주로30길 13",
+      "businessGroup": "경영 컨설팅업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/9089"
+    },
+    {
+      "name": "팅크웨어(주)",
+      "location": "경기 성남시 분당구 판교역로 240, A동 9층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/37357023?Oem_Code=C1&logpath=1"
+    },
+    {
+      "name": "(주)코인통",
+      "location": "서울 마포구 양화진4길 32",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/96014"
+    },
+    {
+      "name": "글로리아교육재단(주)",
+      "location": "서울 동대문구 왕산로 14, 7층",
+      "businessGroup": "기타 기술 및 직업훈련학원",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=42070367&recommend_ids=eJxdjrkRw0AMA6txToB%2F7ELUfxc%2B2dLRo3Dv2YXBVQJ%2BFPDKt5GZ5XUjqqW0j2I%2F8LDvQTRd12%2Figb970mydbF2rZNqOQdotBgkD9mMFzKY9eLUrgYzZtvFqS2j22KmRloMQnrp7GRMcLBXh3r1UZ3yGgtqDUqH0UcHE%2F0LLrHLiB7lFTwY%3D&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0"
+    },
+    {
+      "name": "남양넥스모(주)",
+      "location": "경기 안산시 단원구 목내로 150",
+      "businessGroup": "그 외 자동차용 신품 부품 제조업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/37392718?Oem_Code=C1&logpath=1&stext=.NET&listno=6"
+    },
+    {
+      "name": "(주)페이타랩",
+      "location": "부산 부산진구 서면로 39, 6층 쿨리지코너부산센터",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/9643"
+    },
+    {
+      "name": "(주)유도",
+      "location": "경기 화성시 팔탄면 서해로 1112",
+      "businessGroup": "주형 및 금형 제조업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/37451330?Oem_Code=C1&logpath=1&stext=.NET&listno=4"
+    },
+    {
+      "name": "(주)티쿤글로벌",
+      "location": "서울 중구 퇴계로36가길 10",
+      "businessGroup": "전자상거래 소매 중개업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/9812"
+    },
+    {
+      "name": "위메진소프트",
+      "location": "서울 동작구 동작대로 (방배동,SJ빌딩4층)",
+      "businessGroup": "시스템ㆍ응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.wanted.co.kr/wd/99013"
+    },
+    {
+      "name": "키스템프",
+      "location": "서울특별시 중구 을지로5가 273-4 수도빌딩",
+      "businessGroup": "인력 공급업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/37835355?Oem_Code=C1&logpath=1&stext=.NET&listno=1"
+    },
+    {
+      "name": "직방",
+      "location": "서울특별시 강남구 역삼로17길 64 4층 2호,(역삼동, 제스빌딩)",
+      "businessGroup": "시스템 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://www.linkedin.com/jobs/collections/recommended/?currentJobId=2973213423"
+    },
+    {
+      "name": "휴비츠",
+      "location": "경기도 안양시 동안구 부림로 170번길 38 (관양동)",
+      "businessGroup": "그 외 기타 의료용 기기 제조업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=42702675&recommend_ids=eJxNj8sRQzEIA6vJHQRY4pxCXv9dxJM3g31cFvFJsAnVI%2FcPv4ml6OxH6BeJIDe%2BtrA6r2aDh08zuSsaS1BWY4s025Odr7WWazChAAcVhuVnlFllDKYBebIs22de2XDvk21oHUtF3otqP%2BV3NmIdhHn8b%2F4BYY5AMw%3D%3D&view_type=list&gz=1&t_ref_content=ing_recruit&t_ref=company_info_view#seq=0"
+    },
+    {
+      "name": "원프레딕트",
+      "location": "서울특별시 강남구 테헤란로 419 8층 (삼성동, 강남파이낸스플라자)",
+      "businessGroup": "기타 인문 및 사회과학 연구개발업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=41578478"
+    },
+    {
+      "name": "쿠프마케팅",
+      "location": "서울특별시 성동구 성수이로10길 14 (성수동2가) 에이스하이앤드성수타워 904호, 905호, 10층",
+      "businessGroup": "데이터베이스 및 온라인정보 제공업",
+      "recruitUrl": "https://programmers.co.kr/job_positions/11387"
+    },
+    {
+      "name": "애플코리아",
+      "location": "서울특별시 강남구 영동대로 517 삼성동 아셈타워",
+      "businessGroup": "컴퓨터 및 주변장치, 소프트웨어 도매업",
+      "recruitUrl": "https://www.linkedin.com/jobs/search/?alertAction=viewjobs&currentJobId=3178548339&f_TPR=a1664082004-&keywords=.net&savedSearchId=1275289096&searchAlertRefId=38f097c6-94b3-4b24-988f-9120cf9e9065"
+    },
+    {
+      "name": "미라콤아이앤씨",
+      "location": "서울특별시 송파구 올림픽로35길 123 10층(신천동, 향군타워)",
+      "businessGroup": "컴퓨터시스템 통합 자문 및 구축 서비스업",
+      "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/39943399?Oem_Code=C1&logpath=1&stext=.NET&listno=12"
+    },
+    {
+      "name": "바이크뱅크",
+      "location": "대구광역시 달서구 성서공단로11길 62 5층(호산동,대구융합알앤디센터)",
+      "businessGroup": "기타 운송장비 임대업",
+      "recruitUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=43835795&view_type=search"
+    },
+    {
+      "name": "지마켓",
+      "location": "서울특별시 강남구 테헤란로 152 강남파이낸스센터 34층",
+      "businessGroup": "통신 판매업",
+      "recruitUrl": "https://career.programmers.co.kr/job_positions/14633"
+    }
+    ,
+    {
+      "name": "이스트시큐리티",
+      "location": "서울특별시 서초구 반포대로 3 (서초동, 이스트빌딩) 이스트빌딩 3층",
+      "businessGroup": "응용 소프트웨어 개발 및 공급업",
+      "recruitUrl": "https://career.programmers.co.kr/job_positions/14341"
+    },
+    {
+      "name": "씨제이올리브네트웍스",
+      "location": "서울특별시 용산구 한강대로 366 (동자동, 트윈시티남산) 10층",
+      "businessGroup": "컴퓨터시스템 통합 자문, 구축 및 관리업",
+      "recruitUrl": "https://www.linkedin.com/jobs/view/3655438297"
+    }
+  ]
+}
