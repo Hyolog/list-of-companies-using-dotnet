@@ -1,0 +1,39 @@
+name: Convert JSON to Markdown
+
+on:
+  push:
+    paths:
+      - 'companies.json'  # companies.json 파일이 변경될 때마다 실행
+  pull_request:
+    paths:
+      - 'companies.json'  # PR에도 실행
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt  # 필요한 라이브러리가 있을 경우
+
+    - name: Convert JSON to Markdown
+      run: python convert.py
+
+    - name: Commit converted README
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add README.md
+        git commit -m "Update README from companies.json"
+        git push https://github.com/${{ github.repository }}.git HEAD:${{ github.ref }}  # GITHUB_TOKEN을 사용하여 푸시
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
