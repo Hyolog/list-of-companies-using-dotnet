@@ -343,6 +343,9 @@
 - [(주)비알스톰](https://www.rocketpunch.com/jobs/97190)
 - [(주)알라딘커뮤니케이션](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=38694909&recommend_ids=eJxdkEsSBCEIQ08ze%2FmEyHoO4v1vMZbTitVVbh6QELQemYYY9PjwaxcO%2FxcocAyELKQGTQYSL6xxtZyFeOHTp87Zfuk3nr7Md%2FU3bn8jgBOXjRG1rnDbNXdIXTe13Q8ilVa3oXVhVPZwrGwPTrVoWVljr38DTKwWeXSRigkzYZa2pfplxXRfqX4jdVgh&view_type=list&gz=1&t_ref_content=general&t_ref=jobcategory_recruit#seq=0)
 
+### 절연 코드세트 및 기타 도체 제조업
+- [이엠시티(주)](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=48649886&recommend_ids=eJxNj7kRw1AIRKtxzrHAErsQ9d%2BFkTzzUfhmLwDbW1ovan7qC7YJy64WezBhXaumh2YuBhEyqA8yewKbNYXeZvk3OxVYBFJeu17Wdqq6pbxOVYHB2iFWRqzZkY29qhkmr%2BY5RM4uXVR1swGxOGYKp2DNFfPjrf4AofFAsQ%3D%3D&view_type=list&gz=1&t_ref_content=ing_recruit&t_ref=company_info_view&relayNonce=00ebc4180694cfc5be17&immediately_apply_layer_open=n#seq=0)
+
 ### 주형 및 금형 제조업
 - [(주)유도](https://www.jobkorea.co.kr/Recruit/GI_Read/37451330?Oem_Code=C1&logpath=1&stext=.NET&listno=4)
 
