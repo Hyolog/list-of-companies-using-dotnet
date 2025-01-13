@@ -3,10 +3,8 @@ name: Convert JSON to Markdown
 on:
   push:
     paths:
-      - 'companies.json'  # companies.json 파일이 변경될 때마다 실행
-  pull_request:
-    paths:
-      - 'companies.json'  # PR에도 실행
+      - 'companies.json'
+  workflow_dispatch:
 
 jobs:
   convert:
@@ -22,7 +20,7 @@ jobs:
         python-version: '3.x'
 
     - name: Install dependencies
-      run: pip install -r requirements.txt  # 필요한 라이브러리가 있을 경우
+      run: pip install -r requirements.txt
 
     - name: Convert JSON to Markdown
       run: python convert.py

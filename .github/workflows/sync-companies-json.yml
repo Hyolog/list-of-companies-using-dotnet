@@ -4,8 +4,7 @@ on:
   push:
     paths:
       - companies.json
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   sync-json:
