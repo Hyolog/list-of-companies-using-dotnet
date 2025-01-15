@@ -1379,6 +1379,12 @@
       "location": "서울특별시 성동구 아차산로11길 27 윈스타워 603호 (성수동2가)",
       "businessGroup": "유선 통신장비 제조업",
       "recruitUrl": "https://www.jobkorea.co.kr/Recruit/GI_Read/46266689?Oem_Code=C1&logpath=1&stext=.NET%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=18"
+    },
+    {
+      "name": "Some Other Place",
+      "location": "서울 성동구 연무장15길 11 에스팩토리 B동 2층",
+      "businessGroup": "소셜 네트워크",
+      "recruitUrl": "https://forum.dotnetdev.kr/t/topic/6058"
     }
   ]
 }
