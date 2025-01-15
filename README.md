@@ -303,6 +303,7 @@
 - [(주)현대아이티앤이](https://www.jobkorea.co.kr/Recruit/GI_Read/35560685?Oem_Code=C1&logpath=1)
 - [망고슬래브(주)](https://www.wanted.co.kr/wd/61389)
 - [세이지리서치(주)](https://www.rocketpunch.com/jobs/92854/Application-Engineer-Tech-Lead)
+- [썸아더플레이스](https://forum.dotnetdev.kr/t/topic/6058)
 - [오엠티아이코리아(주)](https://www.wanted.co.kr/wd/61820)
 - [이스트시큐리티](https://career.programmers.co.kr/job_positions/14341)
 - [콩테크(주)](https://www.wanted.co.kr/wd/63237)
