@@ -208,6 +208,7 @@
 
 ### 시스템ㆍ응용 소프트웨어 개발 및 공급업
 - [루나소프트](https://www.wanted.co.kr/wd/12020)
+- [앤서스랩코리아](https://www.wanted.co.kr/wd/250929)
 - [위메진소프트](https://www.wanted.co.kr/wd/99013)
 
 ### 안경, 사진장비 및 광학용품 도매업
