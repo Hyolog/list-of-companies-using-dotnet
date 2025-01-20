@@ -13,9 +13,10 @@
 ## PR Convention
 - companies.json 파일에 아래 항목을 포함한 기업정보 추가 후 PR을 요청합니다.
   - "name"(회사명)
-  - "location"(회사위치)
+  - "location"(회사 주소)
   - "businessGroup"(업종)
-  - "recruitUrl"(채용공고링크)
+  - "recruitUrl"(채용공고 링크)
+- 회사 주소는 [카카오맵](https://map.kakao.com/)을 기준으로 입력합니다.
 - 업종은 [전자공시시스템](https://dart.fss.or.kr/dsae001/main.do)에서 회사명 검색 후 확인할 수 있습니다.
 
  
@@ -185,6 +186,9 @@
 ### 서적, 잡지 및 기타 인쇄물 도매업
 - [(주)이퍼블릭코리아](https://www.jobkorea.co.kr/Recruit/GI_Read/37051563?Oem_Code=C1&logpath=1)
 
+### 소프트웨어 개발 및 공급업
+- [네오플러스](https://www.jobkorea.co.kr/Recruit/GI_Read/46187720?Oem_Code=C1&logpath=1&stext=.NET%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=17)
+
 ### 손해 사정업
 - [(주)모빈스](https://www.jobkorea.co.kr/Recruit/GI_Read/35051753?Oem_Code=C1&sc=7)
 
@@ -238,6 +242,7 @@
 
 ### 유선 통신장비 제조업
 - [(주)네오정보시스템](https://www.wanted.co.kr/wd/59842)
+- [투윈스컴](https://www.jobkorea.co.kr/Recruit/GI_Read/46266689?Oem_Code=C1&logpath=1&stext=.NET%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=18)
 
 ### 유인 항공기, 항공우주선 및 보조장치 제조업
 - [(주)쎄트렉아이](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=37644057)
@@ -298,6 +303,7 @@
 - [(주)현대아이티앤이](https://www.jobkorea.co.kr/Recruit/GI_Read/35560685?Oem_Code=C1&logpath=1)
 - [망고슬래브(주)](https://www.wanted.co.kr/wd/61389)
 - [세이지리서치(주)](https://www.rocketpunch.com/jobs/92854/Application-Engineer-Tech-Lead)
+- [썸아더플레이스](https://forum.dotnetdev.kr/t/topic/6058)
 - [오엠티아이코리아(주)](https://www.wanted.co.kr/wd/61820)
 - [이스트시큐리티](https://career.programmers.co.kr/job_positions/14341)
 - [콩테크(주)](https://www.wanted.co.kr/wd/63237)
@@ -382,9 +388,11 @@
 - [(주)투비콘]()
 - [굿어스(주)](https://www.jobkorea.co.kr/Recruit/GI_Read/34851005?Oem_Code=C1&logpath=1)
 - [미라콤아이앤씨](https://www.jobkorea.co.kr/Recruit/GI_Read/39943399?Oem_Code=C1&logpath=1&stext=.NET&listno=12)
+- [한국마이크로소프트 유한회사](https://jobs.careers.microsoft.com/global/en/search?lc=Korea)
 
 ### 컴퓨터시스템 통합 자문, 구축 및 관리업
 - [씨제이올리브네트웍스](https://www.linkedin.com/jobs/view/3655438297)
+- [에이시에스](https://www.jobkorea.co.kr/Recruit/GI_Read/46220159?Oem_Code=C1&logpath=1&stext=.NET%EA%B0%9C%EB%B0%9C%EC%9E%90&listno=5)
 
 ### 택배업
 - [(주)김집사](https://www.wanted.co.kr/wd/62990)
