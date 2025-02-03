@@ -137,6 +137,7 @@
 - [인크루트(주) ](https://job.incruit.com/jobdb_info/jobpost.asp?job=2009010000227)
 - [잡코리아유한책임회사](https://www.jobkorea.co.kr/Recruit/GI_Read/34333542?Oem_Code=C1)
 - [쿠프마케팅](https://programmers.co.kr/job_positions/11387)
+- [한국전자영수증](https://www.jobkorea.co.kr/Recruit/GI_Read/46332891?Oem_Code=C1&logpath=1&stext=.NET&listno=4)
 
 ### 디스플레이 제조용 기계 제조업
 - [(주)엔지온시스템](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40552569&recommend_ids=eJxNjrkRA0EMw6pxvnpJxi7k%2Bu%2FC983KIYbQCGlol%2BqgrQ%2B%2BaRQBO%2Bh6sBCMc7UbCws2KFeGRg6TbK%2FA8mt9kbVSl%2FxiZtHnViSx5W6Qmqq87FlZRO61eq2eR6Uzuicj2JkbUyGfW5RX1chi6a854HlX%2FQCCDkBw&view_type=search&searchword=.net&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0)
