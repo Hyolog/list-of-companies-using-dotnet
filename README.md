@@ -170,6 +170,9 @@
 ### 발광 다이오드 제조업
 - [하나머티리얼즈(주)](https://www.jobkorea.co.kr/Recruit/GI_Read/35537941?Oem_Code=C1&logpath=1)
 
+### 방사선 장치 제조업
+- [우리엔](https://www.wanted.co.kr/wd/338940)
+
 ### 방송장비 제조업
 - [(주)아이디스](https://www.jobkorea.co.kr/Recruit/GI_Read/35874150?Oem_Code=C1&logpath=1)
 - [가온미디어(주)](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=41109031&recommend_ids=eJxNjrkRxDAMA6txDv5EfIW4%2Fy4sa06Swx0sATo0LbvuVl71c0i2KxaKOj3zbpGJQiV7IJYcrlsWrUzslBJMX7dAIzyOzGZgN6vDxM5QB%2BPdzYkoZMtGHV9P%2BZ9GWPvanciPXCM8VWPIkVvW4Cg7t9Ud8knNNN6vHjWsP9Q%3D&view_type=mail_landing&gz=1&utm_source=job-search-api&utm_campaign=saramin-job-search-api&utm_medium=api#seq=0)
